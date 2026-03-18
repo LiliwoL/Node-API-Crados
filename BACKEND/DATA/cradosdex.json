@@ -1,0 +1,3026 @@
+[
+    {
+        "id": 1,
+        "version": "Crados 1",
+        "family": "Degueulos",
+        "name": "GASTON bouton",
+        "first_name": "Gaston",
+        "description": "Gaston a tant de boutons que quand il monte dans un avion,le pilote croit que c'est son nouveau tableau de bord."
+    },
+    {
+        "id": 2,
+        "version": "Crados 1",
+        "family": "Degueulos",
+        "name": "mauvaise HELENE",
+        "first_name": "Helene",
+        "description": "Avec Hélène, ça dégage : pour l'approcher, faut mettre un masque à gaz."
+    },
+    {
+        "id": 3,
+        "version": "Crados 1",
+        "family": "Degueulos",
+        "name": "LIONEL poubelle",
+        "first_name": "Lionel",
+        "description": "Si tu traînes dans la rue le soir, après minuit,tu tomberas sur Lionel, le nez dans les poubelles."
+    },
+    {
+        "id": 4,
+        "version": "Crados 1",
+        "family": "Degueulos",
+        "name": "JEAN-LOUP bouchetrou",
+        "first_name": "Jean",
+        "description": "Voilà ce qui arrive à Jean-Loupquand il a pris son premier bain."
+    },
+    {
+        "id": 5,
+        "version": "Crados 1",
+        "family": "Degueulos",
+        "name": "RENEE morvoné",
+        "first_name": "Renee",
+        "description": "Le jeu préféré de Renée : la lance-morve."
+    },
+    {
+        "id": 6,
+        "version": "Crados 1",
+        "family": "Degueulos",
+        "name": "HERVE wc",
+        "first_name": "Herve",
+        "description": "Si dans les toilettes tu sens quelque chose te piquer les fesses,t'inquiète, c'est Hervé qui revient de la pêche."
+    },
+    {
+        "id": 7,
+        "version": "Crados 1",
+        "family": "Degueulos",
+        "name": "GUSTAVE la bave",
+        "first_name": "Gustave",
+        "description": "Gustave, faut le prendre comme ça : avec un imper,des bottes et un bon parapluie."
+    },
+    {
+        "id": 8,
+        "version": "Crados 1",
+        "family": "Degueulos",
+        "name": "LAURENT dégoûtant",
+        "first_name": "Laurent",
+        "description": "Incroyable mais vrai : Laurent arrive à sortir de sa doucheplus sale qu'il ne l'était en rentrant."
+    },
+    {
+        "id": 9,
+        "version": "Crados 1",
+        "family": "Degueulos",
+        "name": "KARINE vermine",
+        "first_name": "Karine",
+        "description": "Si des insectes t'embêtent, va voir Karine :elle fait mouche à tous coups."
+    },
+    {
+        "id": 10,
+        "version": "Crados 1",
+        "family": "Degueulos",
+        "name": "PIERROT binet",
+        "first_name": "Pierrot",
+        "description": "Pierrot a deux robinets : un pour la crasse chaude,un pour la crasse froide."
+    },
+    {
+        "id": 11,
+        "version": "Crados 1",
+        "family": "Degueulos",
+        "name": "papier LUC",
+        "first_name": "Luc",
+        "description": "Luc est tellement doux qu'il a fini dans les toilettes."
+    },
+    {
+        "id": 12,
+        "version": "Crados 1",
+        "family": "Degueulos",
+        "name": "RITON laveur",
+        "first_name": "Riton",
+        "description": "Le cauchemar de Riton le crado : être transformé en éponge."
+    },
+    {
+        "id": 13,
+        "version": "Crados 1",
+        "family": "Degueulos",
+        "name": "JEAN-LOUIS dégueulis",
+        "first_name": "Jean",
+        "description": "Si tu aimes le vomi, sûr que tu seras pote avec Jean-Louis."
+    },
+    {
+        "id": 14,
+        "version": "Crados 1",
+        "family": "Degueulos",
+        "name": "DELPHINE mousseline",
+        "first_name": "Delphine",
+        "description": "Plaire à Delphine, ce n'est pas dur. Elle mâche le boulot : avec elle, c'est du tout cuit."
+    },
+    {
+        "id": 15,
+        "version": "Crados 1",
+        "family": "Degueulos",
+        "name": "BRIGITTE les fuites",
+        "first_name": "Brigitte",
+        "description": "Parce qu'elle boit comme un trou, Brigitte fuit de partout."
+    },
+    {
+        "id": 16,
+        "version": "Crados 1",
+        "family": "Degueulos",
+        "name": "SUZON glaçon",
+        "first_name": "Suzon",
+        "description": "Elle pue tellement, Suzon, que ses copains l'ont enfermée dans le frigo."
+    },
+    {
+        "id": 17,
+        "version": "Crados 1",
+        "family": "Degueulos",
+        "name": "GEO gerbetou",
+        "first_name": "Geo",
+        "description": "Géo mange n'importe quoi, on le prend pour une benne à ordure."
+    },
+    {
+        "id": 18,
+        "version": "Crados 1",
+        "family": "Degueulos",
+        "name": "BAUDOUIN p'tit coin",
+        "first_name": "Baudouin",
+        "description": "Si les WC sont occupés, c'est que Baudouin y prend son pied."
+    },
+    {
+        "id": 19,
+        "version": "Crados 1",
+        "family": "Degueulos",
+        "name": "YANNICK cosmic",
+        "first_name": "Yannick",
+        "description": "Quand Yannick s'envole en l'air, il en retombe plein sur terre."
+    },
+    {
+        "id": 20,
+        "version": "Crados 1",
+        "family": "Degueulos",
+        "name": "JEROME arôme",
+        "first_name": "Jerome",
+        "description": "Jérome est musicien : il est trompetteur."
+    },
+    {
+        "id": 21,
+        "version": "Crados 1",
+        "family": "Degueulos",
+        "name": "MATHIEU le dégueu",
+        "first_name": "Mathieu",
+        "description": "Plutôt que de marcher dedans, Mathieu préfère les manger.CHEF DES DEGUEULOSAdresse : 24, rue du Rendu, BerkGros coups- 12/06/84 : vomit pendant un barbecue. Bilan : 9 morts, 20 blessés et une tonne de boudin.- 07/03/85 : remporte le concours du plus gros mangeur de choucroute. Rend son repas aux jurés.- 02/09/88 : premier match de la Coupe de France de foot : rend la première balle.Grand piedsPlat : la crème renversée. - Chanson : une gerbe de fleur. - Livre : les mémoires d un pourceau. Film : l'Arroseur arrosé. Télé : le Rendez-vous de 13 heures. - Citation : \"Rends moi ça tout de suite\"."
+    },
+    {
+        "id": 22,
+        "version": "Crados 1",
+        "family": "Degueulos",
+        "name": "GUDULE pustule",
+        "first_name": "Gudule",
+        "description": "Ah! Gudule! Beauté fatale! quand on la voit, on détale."
+    },
+    {
+        "id": 23,
+        "version": "Crados 1",
+        "family": "Animos",
+        "name": "ALAIN secte",
+        "first_name": "Alain",
+        "description": "Tous les moustiques, hiver comme été, prennent Alainau petit déjeuner."
+    },
+    {
+        "id": 24,
+        "version": "Crados 1",
+        "family": "Animos",
+        "name": "camé LEON",
+        "first_name": "Leon",
+        "description": "Pour la St-Léon, offrez-lui son péché mignon :une mouche bleue à croquer."
+    },
+    {
+        "id": 25,
+        "version": "Crados 1",
+        "family": "Animos",
+        "name": "ZOE de Vincennes",
+        "first_name": "Zoe",
+        "description": "Zoé adore toutes les bestioles : elle les digère très bien."
+    },
+    {
+        "id": 26,
+        "version": "Crados 1",
+        "family": "Animos",
+        "name": "JOSE fêlé",
+        "first_name": "Jose",
+        "description": "Pour sortir de sa coquille, José a attendu le CM2."
+    },
+    {
+        "id": 27,
+        "version": "Crados 1",
+        "family": "Animos",
+        "name": "ELIANE banane",
+        "first_name": "Eliane",
+        "description": "Eliane n'est jamais en retard à l'école :elle ne rate jamais une branche."
+    },
+    {
+        "id": 28,
+        "version": "Crados 1",
+        "family": "Animos",
+        "name": "TITUS sacapuces",
+        "first_name": "Titus",
+        "description": "Titus habite en communauté avec plein de copains, à Saint-Ouen."
+    },
+    {
+        "id": 29,
+        "version": "Crados 1",
+        "family": "Animos",
+        "name": "CHRISTOPHE catastrophe",
+        "first_name": "Christophe",
+        "description": "La devise de Christophe : \"Et que ça saute !\"."
+    },
+    {
+        "id": 30,
+        "version": "Crados 1",
+        "family": "Animos",
+        "name": "STEPHANIE pipi",
+        "first_name": "Stephanie",
+        "description": "Les chiens aiment bien Stéphanie : ils lèvent toujoursla patte quand ils la croisent."
+    },
+    {
+        "id": 31,
+        "version": "Crados 1",
+        "family": "Animos",
+        "name": "mouche ARMELLE",
+        "first_name": "Armelle",
+        "description": "Plus ça sent mauvais, plus Armelle aime ça."
+    },
+    {
+        "id": 32,
+        "version": "Crados 1",
+        "family": "Animos",
+        "name": "SIMON cochon",
+        "first_name": "Simon",
+        "description": "Quand Simon a enlevé ses chaussures à la cantine.CHEF DES ANIMOSAdresse : 15, rue du Père Fouettard (au fond de la cour à droite),Bonjour-lès-OdeursGros coups- 05/07/84 : sort des cabinets au bout de deux heures : 15 morts.- 01/05/86 : détourne un camion d'ordures. Butin : 3000 peaux de banane et 2 tonnes d'engrais- 13/11/88 : enlève ses chaussures : 1287 asphyxiés.Grand piedsPlat : le ragoût de poubelle. - Chanson : sous les ponts de Paris. - Livre : Gros Dégueulasse. Film : Les aristocrades. - Télé : Cabou cadin. - Citation : \"je sens rien\"."
+    },
+    {
+        "id": 33,
+        "version": "Crados 1",
+        "family": "Animos",
+        "name": "DAVID adada",
+        "first_name": "David",
+        "description": "A la fête foraine, David, c'est la terreur des manèges."
+    },
+    {
+        "id": 34,
+        "version": "Crados 1",
+        "family": "Animos",
+        "name": "LAETITIA pudébras",
+        "first_name": "Laetitia",
+        "description": "Pour rester fraîche toute la journée, Laetitia n'a qu'un secret :Puodorant, matin et soir."
+    },
+    {
+        "id": 35,
+        "version": "Crados 1",
+        "family": "Animos",
+        "name": "LEO stéréo",
+        "first_name": "Leo",
+        "description": "Quand il entend la voix de son maître, Léo n'a qu'une hâte :lever la patte."
+    },
+    {
+        "id": 36,
+        "version": "Crados 1",
+        "family": "Gravos",
+        "name": "PAUL de Traviol",
+        "first_name": "Paul",
+        "description": "A force de se baisser pour regarder par les trous de serrure, Paul est devenu bossu."
+    },
+    {
+        "id": 37,
+        "version": "Crados 1",
+        "family": "Gravos",
+        "name": "FRANCE einstein",
+        "first_name": "France",
+        "description": "France est arrivée sans masque à la Fête de fin d'année :12 parents sont morts d'une crise cardiaque."
+    },
+    {
+        "id": 38,
+        "version": "Crados 1",
+        "family": "Gravos",
+        "name": "GINETTE deux-têtes",
+        "first_name": "Ginette",
+        "description": "Le plat préféré de Ginette : un double hamburger."
+    },
+    {
+        "id": 39,
+        "version": "Crados 1",
+        "family": "Gravos",
+        "name": "ARNAUD les-crocs",
+        "first_name": "Arnaud",
+        "description": "Arnaud, à coup sûr, tu te trouves dans le compartimentà viande de ton frigo."
+    },
+    {
+        "id": 40,
+        "version": "Crados 1",
+        "family": "Gravos",
+        "name": "FRANCK le cancre",
+        "first_name": "Franck",
+        "description": "Si tu veux avoir zéro pour embêter tes parents,t'as qu'à pomper sur Franck.CHEF DES GRAVOSAdresse : 0, rue des Bêtises, CambraiGros coups- 05/11/87 : entre par effraction dans la bibliothèque : déchire tous les livres sauf les BD.- 01/02/88 : lève la main en classe pour la première fois et demande à aller aux toilettes.- 03/01/89 : pique tous les cahiers d'Agathe Les Maths et met des erreurs dans ses calculs.Grand piedsPlat : purée d'algèbre. - Chanson : à la queue-leu-leu. - Livre : aucun. Film : la guerre des boutons. - Télé : Les Nuls. - Citation : \"c'est quand la récré\"."
+    },
+    {
+        "id": 41,
+        "version": "Crados 1",
+        "family": "Gravos",
+        "name": "SABRINA gomina",
+        "first_name": "Sabrina",
+        "description": "Quand Sabrina va chez le coiffeur, elle demande un\"shampooing-brushing-barbe\"."
+    },
+    {
+        "id": 42,
+        "version": "Crados 1",
+        "family": "Gravos",
+        "name": "pervers BEBERT",
+        "first_name": "Bebert",
+        "description": "Si Bébert te propose des bonbons, ferme les yeux et casse-toien courant (attention à la marche)."
+    },
+    {
+        "id": 43,
+        "version": "Crados 1",
+        "family": "Gravos",
+        "name": "VANESSA blier",
+        "first_name": "Vanessa",
+        "description": "Vanessa est toujours en retard : ne lui file pas de rencard."
+    },
+    {
+        "id": 44,
+        "version": "Crados 1",
+        "family": "Gravos",
+        "name": "OLIVIER timbré",
+        "first_name": "Olivier",
+        "description": "Olivier n'est pas un copain recommendable :il est accusé de reception."
+    },
+    {
+        "id": 45,
+        "version": "Crados 1",
+        "family": "Gravos",
+        "name": "GERARD o placard",
+        "first_name": "Gerard",
+        "description": "Gérard est tellement gonflant qu'à tous les goûterson le met à l'écart."
+    },
+    {
+        "id": 46,
+        "version": "Crados 1",
+        "family": "Gravos",
+        "name": "LUCIE clope",
+        "first_name": "Lucie",
+        "description": "Lucie, quand elle fait un clin d'oeil, elle se casse la gueule."
+    },
+    {
+        "id": 47,
+        "version": "Crados 1",
+        "family": "Gravos",
+        "name": "JOSE brisé",
+        "first_name": "Jose",
+        "description": "José est si laid que, quand il se regarde, même les glacesse fendent la tronche."
+    },
+    {
+        "id": 48,
+        "version": "Crados 1",
+        "family": "Gravos",
+        "name": "DAGOBERT alenvers",
+        "first_name": "Dagobert",
+        "description": "Ce que tu n'as pas réussi à lire ici, Dagobert, lui, peut le faire."
+    },
+    {
+        "id": 49,
+        "version": "Crados 1",
+        "family": "Gravos",
+        "name": "MARIE-JO cageot",
+        "first_name": "Marie",
+        "description": "Non seulement Marie-Jo est moche comme deux poux, mais en plus c'est une langue de vipère."
+    },
+    {
+        "id": 50,
+        "version": "Crados 1",
+        "family": "Gravos",
+        "name": "épingle à MAURICE",
+        "first_name": "Maurice",
+        "description": "Il a les cheveux les plus verts de l'école, mais aussi le niveau intellectuel le plus bas."
+    },
+    {
+        "id": 51,
+        "version": "Crados 1",
+        "family": "Gravos",
+        "name": "TOTOCHE la cloche",
+        "first_name": "Totoche",
+        "description": "A force de se faire sonner, il est devenu fêlé."
+    },
+    {
+        "id": 52,
+        "version": "Crados 1",
+        "family": "Gravos",
+        "name": "DUDU fendu",
+        "first_name": "Dudu",
+        "description": "Quand Dudu se fend la poire, faut le voir !."
+    },
+    {
+        "id": 53,
+        "version": "Crados 1",
+        "family": "Gravos",
+        "name": "NOEL enguirlandé",
+        "first_name": "Noel",
+        "description": "NoÃ«l a les boules de s'être fait allumer."
+    },
+    {
+        "id": 54,
+        "version": "Crados 1",
+        "family": "Gravos",
+        "name": "MYLENE micoton",
+        "first_name": "Mylene",
+        "description": "N'écoute pas les histoires de Mylène : elles sont cousues de fil blanc."
+    },
+    {
+        "id": 55,
+        "version": "Crados 1",
+        "family": "Gravos",
+        "name": "AGATHE les maths",
+        "first_name": "Agathe",
+        "description": "L'adresse d'Agathe : bâtiment E=MCÂ², rue Albert Einstein."
+    },
+    {
+        "id": 56,
+        "version": "Crados 1",
+        "family": "Gravos",
+        "name": "photo SOPHIE",
+        "first_name": "Sophie",
+        "description": "Le grand pied de Sophie : sa tête en mille exemplaires."
+    },
+    {
+        "id": 57,
+        "version": "Crados 1",
+        "family": "Gravos",
+        "name": "MARGUERITE la folie",
+        "first_name": "Marguerite",
+        "description": "Marguerite croit qu'on l'aime à la folie, mais pas du tout !."
+    },
+    {
+        "id": 58,
+        "version": "Crados 1",
+        "family": "Gravos",
+        "name": "IRMA boule",
+        "first_name": "Irma",
+        "description": "Irma a gagné tous les concours de boules,mais qu'est-ce qu'elle est amochée !."
+    },
+    {
+        "id": 59,
+        "version": "Crados 1",
+        "family": "Gravos",
+        "name": "JEAN chaînes",
+        "first_name": "Jean",
+        "description": "Jean niait avoir volé 200 télés couleur chez Tarty.privé de télé pendant deux heures, il avoue tout."
+    },
+    {
+        "id": 60,
+        "version": "Crados 1",
+        "family": "Crevos",
+        "name": "AUBIN d'épice",
+        "first_name": "Aubin",
+        "description": "La chanson préférée d'Aubin : Prosper yop la boum."
+    },
+    {
+        "id": 61,
+        "version": "Crados 1",
+        "family": "Crevos",
+        "name": "YVAN morvivant",
+        "first_name": "Yvan",
+        "description": "Quand Yvan sort de son trou, c'est pour aller piquer les chrysanthèmesde son cousin Pierre Lachaise."
+    },
+    {
+        "id": 62,
+        "version": "Crados 1",
+        "family": "Crevos",
+        "name": "FREDERIC atomic",
+        "first_name": "Frederic",
+        "description": "Le plat préféré de Frédéric : l'omelette aux champignons atomiques.CHEF DES CREVOSAdresse : 0, rue de la Ruine, atoll de Mururoa, Pacifique SudGros coups- 03/09/84 : explose accidentellement dans un élevage de poulets industriel : 7003 victimes.Le proprio se reconvertit dans le fast-food.- 18/05/86 : explose par erreur sur le mont Blanc. Le proprio se reconvertit dans la vente de glaçons.- 14/07/88 : explose accidentellement à la Bastille le 14 juillet : personne ne s'en aperçoit.Grand piedsPlat : omelette aux champignons atomiques. - Chanson : Prosper yop la boum. - Livre : la Guerre des Etoiles. Film : la Boum. Télé : l'Inspecteur Derrick. - Citation : \"et que ça saute !\"."
+    },
+    {
+        "id": 63,
+        "version": "Crados 1",
+        "family": "Crevos",
+        "name": "JEAN-PIERRE tombale",
+        "first_name": "Jean",
+        "description": "Même quand il a zéro partout, Jean-Pierre reste de marbre."
+    },
+    {
+        "id": 64,
+        "version": "Crados 1",
+        "family": "Crevos",
+        "name": "OSCAR mollard",
+        "first_name": "Oscar",
+        "description": "Au concours de crachats, Oscar va plus loin."
+    },
+    {
+        "id": 65,
+        "version": "Crados 1",
+        "family": "Crevos",
+        "name": "sadique ERIC",
+        "first_name": "Eric",
+        "description": "Le malin plaisir d'Eric : couper les cheveux des poupées de sa frangine."
+    },
+    {
+        "id": 66,
+        "version": "Crados 1",
+        "family": "Crevos",
+        "name": "chauve THIERRY",
+        "first_name": "Thierry",
+        "description": "Plus il est chauve, et plus Thierry sourit."
+    },
+    {
+        "id": 67,
+        "version": "Crados 1",
+        "family": "Crevos",
+        "name": "EDGAR cigare",
+        "first_name": "Edgar",
+        "description": "Edgar a été viré de l'école pour une semaine. Motif :pollution atmosphérique des toilettes."
+    },
+    {
+        "id": 68,
+        "version": "Crados 1",
+        "family": "Crevos",
+        "name": "GILOU cordocou",
+        "first_name": "Gilou",
+        "description": "Pendant les cours d'histoire, Gilou se planque au dernier rang : il joue au pendu."
+    },
+    {
+        "id": 69,
+        "version": "Crados 1",
+        "family": "Crevos",
+        "name": "ARLETTE squelette",
+        "first_name": "Arlette",
+        "description": "Au régime oÃ¹ elle va, Arlette ne fera pas de vieux os."
+    },
+    {
+        "id": 70,
+        "version": "Crados 1",
+        "family": "Crevos",
+        "name": "CLAIRE éclair",
+        "first_name": "Claire",
+        "description": "Dès la première récré, Claire a eu le coup de foudre pour John Trévolté."
+    },
+    {
+        "id": 71,
+        "version": "Crados 1",
+        "family": "Crevos",
+        "name": "REMI momie",
+        "first_name": "Remi",
+        "description": "Depuis qu'il a visité le Louvre, Rémo vit dans un sarcophage."
+    },
+    {
+        "id": 72,
+        "version": "Crados 1",
+        "family": "Crevos",
+        "name": "CHRISTELLE porte-chandelle",
+        "first_name": "Christelle",
+        "description": "Christelle, c'est clair, ce n est pas une lumière."
+    },
+    {
+        "id": 73,
+        "version": "Crados 1",
+        "family": "Crevos",
+        "name": "JOHN trévolté",
+        "first_name": "John",
+        "description": "La devise de John : ça boume !."
+    },
+    {
+        "id": 74,
+        "version": "Crados 1",
+        "family": "Crevos",
+        "name": "JOSEPH E.D.F.",
+        "first_name": "Joseph",
+        "description": "Joseph n'était jamais au courant. Maintenant, c'est le plus branché de tous."
+    },
+    {
+        "id": 75,
+        "version": "Crados 1",
+        "family": "Crevos",
+        "name": "ESTHER sorcière",
+        "first_name": "Esther",
+        "description": "La soupe de ta mère, à côté de celle d'Esther, c'est du gâteau !."
+    },
+    {
+        "id": 76,
+        "version": "Crados 1",
+        "family": "Crevos",
+        "name": "NORBERT d enfer",
+        "first_name": "Norbert",
+        "description": "Norbert rêvait d'être pompier. Mais il s'est fait griller à l'examen d'entrée."
+    },
+    {
+        "id": 77,
+        "version": "Crados 1",
+        "family": "Dechiros",
+        "name": "débile EMILE",
+        "first_name": "Emile",
+        "description": "Tous les soirs, Emile va promener sa brosse à dents pendant que le chienreste sur l'étagère du lavabo.CHEF DES DECHIROSAdresse : chambre 404, pavillon des Barges, Saint-AnneGros coups- 10/12/85 : injurie les arbres du parc pendant 36 jours.- 03/08/86 : va au concert de Chantal Braya et aime ça !.- 17/11/88 : achète des carambars et des malabars pour toute l'école.Grand piedsPlat : le pot-au-fou. - Chanson : celle du marteau-piqueur. - Livre : Napoléon à Saint-Hélène. Film : Alien. - Télé : Dingo. - Citation : \"c'est ffffou, non ?\"."
+    },
+    {
+        "id": 78,
+        "version": "Crados 1",
+        "family": "Dechiros",
+        "name": "CAMILLE béquille",
+        "first_name": "Camille",
+        "description": "Camille a tiré la langue au chef des Craignos : voici le résultat."
+    },
+    {
+        "id": 79,
+        "version": "Crados 1",
+        "family": "Dechiros",
+        "name": "PIERRE détaché",
+        "first_name": "Pierre",
+        "description": "Si tu t'éclates au cours de gym, va chez Pierre : il a toutes les pièces de rechange."
+    },
+    {
+        "id": 80,
+        "version": "Crados 1",
+        "family": "Dechiros",
+        "name": "VIRGINIE aplatie",
+        "first_name": "Virginie",
+        "description": "Même après deux mois étalés au soleil, Virginie est à plat."
+    },
+    {
+        "id": 81,
+        "version": "Crados 1",
+        "family": "Dechiros",
+        "name": "JONATHAN mutant",
+        "first_name": "Jonathan",
+        "description": "A Mardi Gras, quand Jonathan enlève son masque, tout le monde perd l'appétit."
+    },
+    {
+        "id": 82,
+        "version": "Crados 1",
+        "family": "Dechiros",
+        "name": "STEPH la crève",
+        "first_name": "Steph",
+        "description": "A chaque contrôle, Steph a toujours quarante de fièvre."
+    },
+    {
+        "id": 83,
+        "version": "Crados 1",
+        "family": "Dechiros",
+        "name": "lance PIERRE",
+        "first_name": "Pierre",
+        "description": "Retiens bien Pierre, il ira loin !."
+    },
+    {
+        "id": 84,
+        "version": "Crados 1",
+        "family": "Dechiros",
+        "name": "JAMES fond",
+        "first_name": "James",
+        "description": "Au fond de la classe, juste à côté du radiateur, James se la coule douce."
+    },
+    {
+        "id": 85,
+        "version": "Crados 1",
+        "family": "Dechiros",
+        "name": "TOTO mobile",
+        "first_name": "Toto",
+        "description": "Pour faire taire son petit frère, Toto se fait mobile."
+    },
+    {
+        "id": 86,
+        "version": "Crados 1",
+        "family": "Dechiros",
+        "name": "FABRICE cicatrice",
+        "first_name": "Fabrice",
+        "description": "Fabrice s'est fait épingler pour détournement de pelote de laine."
+    },
+    {
+        "id": 87,
+        "version": "Crados 1",
+        "family": "Dechiros",
+        "name": "ALEX queenex",
+        "first_name": "Alex",
+        "description": "Alex est un mouchard mais les Dégueulos l'aiment bien quand même."
+    },
+    {
+        "id": 88,
+        "version": "Crados 1",
+        "family": "Dechiros",
+        "name": "VICTOR fluor",
+        "first_name": "Victor",
+        "description": "Victor n'a qu'une dent : c'est contre les caries."
+    },
+    {
+        "id": 89,
+        "version": "Crados 1",
+        "family": "Dechiros",
+        "name": "ELVIS tournevis",
+        "first_name": "Elvis",
+        "description": "La seule chose qui fasse tournet la tête d'Elvis : le rock."
+    },
+    {
+        "id": 90,
+        "version": "Crados 1",
+        "family": "Dechiros",
+        "name": "crêpe SUZETTE",
+        "first_name": "Suzette",
+        "description": "Suzette se fait rouler à tous les coups quand elle échange les images des Crados."
+    },
+    {
+        "id": 91,
+        "version": "Crados 1",
+        "family": "Dechiros",
+        "name": "papy ROCKY",
+        "first_name": "Rocky",
+        "description": "L'adresse de Papy : 100, boulevard du Crépuscule, Vieux Nice."
+    },
+    {
+        "id": 92,
+        "version": "Crados 1",
+        "family": "Dechiros",
+        "name": "ALBERT ventrouver",
+        "first_name": "Albert",
+        "description": "A quatre heures, Albert avait un petit creux.A quatre heures douze, il en a un grand !."
+    },
+    {
+        "id": 93,
+        "version": "Crados 1",
+        "family": "Dechiros",
+        "name": "MARCEL cervelle",
+        "first_name": "Marcel",
+        "description": "En sciences nat., Marcel se creuse les méninges. Pour de vrai !."
+    },
+    {
+        "id": 94,
+        "version": "Crados 1",
+        "family": "Dechiros",
+        "name": "XAVIER malélevé",
+        "first_name": "Xavier",
+        "description": "Pour dire des bêtises en classe, Xavier n'a pas la langue dans sa poche."
+    },
+    {
+        "id": 95,
+        "version": "Crados 1",
+        "family": "Dechiros",
+        "name": "ADAM defer",
+        "first_name": "Adam",
+        "description": "Tous les bonbons du monde ne pourront rien contre Adam :il est blindé !."
+    },
+    {
+        "id": 96,
+        "version": "Crados 1",
+        "family": "Dechiros",
+        "name": "SEBASTIEN danlebain",
+        "first_name": "Sebastien",
+        "description": "Sébastien a eu la baveuse d'or du 10 mètres coulée libre à Séoul."
+    },
+    {
+        "id": 97,
+        "version": "Crados 1",
+        "family": "Dechiros",
+        "name": "FLO ride",
+        "first_name": "Flo",
+        "description": "Flo s'est enfuie en Amérique. Faut dire qu'elle avait tuésix personnes à coups de canne en voulant prendre le bus."
+    },
+    {
+        "id": 98,
+        "version": "Crados 1",
+        "family": "Dechiros",
+        "name": "NATHALIE spaghetti",
+        "first_name": "Nathalie",
+        "description": "Le plat préféré de Nathalie : les spaghettis que prépare Renée Morvonée."
+    },
+    {
+        "id": 99,
+        "version": "Crados 1",
+        "family": "Dechiros",
+        "name": "BARNABE plombé",
+        "first_name": "Barnabe",
+        "description": "Barnabé n'a pas besoin d'aller au casino pour jouer à la roulette."
+    },
+    {
+        "id": 100,
+        "version": "Crados 1",
+        "family": "Dechiros",
+        "name": "EMILIE bouillie",
+        "first_name": "Emilie",
+        "description": "Quand Emilie va voir un film d'horreur, c est à la petitecuillère qu'il faut la ramasser."
+    },
+    {
+        "id": 101,
+        "version": "Crados 1",
+        "family": "Dechiros",
+        "name": "SANDRINE sanguine",
+        "first_name": "Sandrine",
+        "description": "Bon sang, qu'est-ce que Sandrine se fait comme mauvais sang."
+    },
+    {
+        "id": 102,
+        "version": "Crados 1",
+        "family": "Dechiros",
+        "name": "SOLANGE pressée",
+        "first_name": "Solange",
+        "description": "Solange, rien ne sert d'être pressée, il faut partir à point."
+    },
+    {
+        "id": 103,
+        "version": "Crados 1",
+        "family": "Dechiros",
+        "name": "CELINE dégouline",
+        "first_name": "Celine",
+        "description": "Céline, c'est Norbert d'Enfer qui la fait fondre."
+    },
+    {
+        "id": 104,
+        "version": "Crados 1",
+        "family": "Dechiros",
+        "name": "décalco MARIE",
+        "first_name": "Marie",
+        "description": "Elle s'est essuyée si fort après son bain, Marie,qu'elle a déteint sur sa serviette."
+    },
+    {
+        "id": 105,
+        "version": "Crados 1",
+        "family": "Dechiros",
+        "name": "AUDREY dégonflée",
+        "first_name": "Audrey",
+        "description": "Quand les filles se crêpent le chignon à la récré, Audrey se dégonfle."
+    },
+    {
+        "id": 106,
+        "version": "Crados 1",
+        "family": "Dechiros",
+        "name": "MICKAEL ange",
+        "first_name": "Mickael",
+        "description": "MickaÃ«l a un coup de coeur pour Audrey Dégonflée. Il a interêt à s'accrocher."
+    },
+    {
+        "id": 107,
+        "version": "Crados 1",
+        "family": "Dechiros",
+        "name": "PASCAL trou-de-balle",
+        "first_name": "Pascal",
+        "description": "Pascal, le goal des Déchiros, c'est une vraie passoire."
+    },
+    {
+        "id": 108,
+        "version": "Crados 1",
+        "family": "Lardos",
+        "name": "THIBAUD tête-de-veau",
+        "first_name": "Thibaud",
+        "description": "Thibaud a perdu la tête, il a mis les pieds dans le plat."
+    },
+    {
+        "id": 109,
+        "version": "Crados 1",
+        "family": "Lardos",
+        "name": "ANTHONY cuit",
+        "first_name": "Anthony",
+        "description": "Anthony aime beaucoup son chef de camp. Surtout avec des frites."
+    },
+    {
+        "id": 110,
+        "version": "Crados 1",
+        "family": "Lardos",
+        "name": "LOUIS pas-joli",
+        "first_name": "Louis",
+        "description": "C'est le bicentenaire, Louis fête la prise de la cantine."
+    },
+    {
+        "id": 111,
+        "version": "Crados 1",
+        "family": "Lardos",
+        "name": "PASCALE murale",
+        "first_name": "Pascale",
+        "description": "Pascale, c'est bien simple : personne ne peut l'encadrer."
+    },
+    {
+        "id": 112,
+        "version": "Crados 1",
+        "family": "Lardos",
+        "name": "ALDO supercrado",
+        "first_name": "Aldo",
+        "description": "Après 3 minutes 37 de régime, Aldo a dévoré 19 hamburgers, 32 pizzas ... et un cure-dent.CHEF DES LARDOSAdresse : 120, rue du Large, GrasseGros coups- 09/12/82 : braque une charcuterie : se tire avec 16 boudins et la charcutière.- 25/05/85 : desserre sa ceinture en public : 26 morts, 15 blessés.- 18/01/88 : après douze heures de régime, devient fou, dévore 117 choucrouteset détrône Raoul Bouboule comme chef des Lardos.Grand piedsPlat : le cassoulet à la choucroute. - Chanson : Tiens, voilà du boudin. - Livre : les livres de cuisine. Film : Grand Bouffe. Télé : l'Assiette anglaise. - Citation : \"y'a du rab ?\"."
+    },
+    {
+        "id": 113,
+        "version": "Crados 1",
+        "family": "Lardos",
+        "name": "RAYMONDE joconde",
+        "first_name": "Raymonde",
+        "description": "C'est Léonard de Paris, de la bande des Craignos,qui lui a tiré le portrait."
+    },
+    {
+        "id": 114,
+        "version": "Crados 1",
+        "family": "Lardos",
+        "name": "RAOUL bouboule",
+        "first_name": "Raoul",
+        "description": "Raoul, si on le pousse, il roule."
+    },
+    {
+        "id": 115,
+        "version": "Crados 1",
+        "family": "Lardos",
+        "name": "ANNE burger",
+        "first_name": "Anne",
+        "description": "Anne est une grande saucisse qui se mange à toutes les sauces."
+    },
+    {
+        "id": 116,
+        "version": "Crados 1",
+        "family": "Lardos",
+        "name": "RENE quicoule",
+        "first_name": "Rene",
+        "description": "L'adresse de René : 85, rue des Coulures, Pavalas-les-Flots."
+    },
+    {
+        "id": 117,
+        "version": "Crados 1",
+        "family": "Lardos",
+        "name": "JEREMY minet",
+        "first_name": "Jeremy",
+        "description": "Jérémy frime. Toute la journée, il ne cesse de répéter :\"Matou-vu ?\"."
+    },
+    {
+        "id": 118,
+        "version": "Crados 1",
+        "family": "Lardos",
+        "name": "JACQUOT chicot",
+        "first_name": "Jacquot",
+        "description": "Pour s'acheter des bonbons, Jacquot a la combine :il économise le dentifrice."
+    },
+    {
+        "id": 119,
+        "version": "Crados 1",
+        "family": "Lardos",
+        "name": "JEANNINE lapine",
+        "first_name": "Jeannine",
+        "description": "Pour se faire de l'argent de poche, Jeannine est serveusele mercredi au bar des Crados."
+    },
+    {
+        "id": 120,
+        "version": "Crados 1",
+        "family": "Lardos",
+        "name": "JEAN bonneau",
+        "first_name": "Jean",
+        "description": "Jean n'est pas un bon copain, c'est un salami."
+    },
+    {
+        "id": 121,
+        "version": "Crados 1",
+        "family": "Lardos",
+        "name": "MAITE piècemontée",
+        "first_name": "Maite",
+        "description": "MaÃ¯té a sale caractère : c'est pas du gâteau !."
+    },
+    {
+        "id": 122,
+        "version": "Crados 1",
+        "family": "Lardos",
+        "name": "RICHARD le lard",
+        "first_name": "Richard",
+        "description": "Le plat préféré de Richard : tous en même temps."
+    },
+    {
+        "id": 123,
+        "version": "Crados 1",
+        "family": "Lardos",
+        "name": "BABETTE gaufrette",
+        "first_name": "Babette",
+        "description": "Sylvie Chantilly est la meilleure amie de Babette.L'une ne va pas sans l'autre."
+    },
+    {
+        "id": 124,
+        "version": "Crados 1",
+        "family": "Lardos",
+        "name": "HONORE vapété",
+        "first_name": "Honore",
+        "description": "Le rêve d'Honoré : devenir comme son cousin Pompe Albertou son copain Mongol Pierre."
+    },
+    {
+        "id": 125,
+        "version": "Crados 1",
+        "family": "Lardos",
+        "name": "JOEL la belle",
+        "first_name": "Joel",
+        "description": "Après la visite médicale, JoÃ«l la Belle s'est fait renvoyerde l'école des filles."
+    },
+    {
+        "id": 126,
+        "version": "Crados 1",
+        "family": "Lardos",
+        "name": "ALICE épice",
+        "first_name": "Alice",
+        "description": "Pour être acceptée dans la bandes des Lardos, Alice a dûavaler douze piments."
+    },
+    {
+        "id": 127,
+        "version": "Crados 1",
+        "family": "Lardos",
+        "name": "AMELIE shake",
+        "first_name": "Amelie",
+        "description": "Le milk-shake des Crados : deux bananes avec la peau, un poissonpourri, du lait tourné et une Amélie."
+    },
+    {
+        "id": 128,
+        "version": "Crados 1",
+        "family": "Lardos",
+        "name": "VALERIE la carie",
+        "first_name": "Valerie",
+        "description": "Quand Valérie s'asseoit près du vide-ordure, on les confond."
+    },
+    {
+        "id": 129,
+        "version": "Crados 1",
+        "family": "Lardos",
+        "name": "ARTHUR l enflure",
+        "first_name": "Arthur",
+        "description": "On recherche Arthur pour le braquage d'une pizzéria.Le magot : 65 pizzas et le cuisinier."
+    },
+    {
+        "id": 130,
+        "version": "Crados 1",
+        "family": "Lardos",
+        "name": "LOULOU bouffetou",
+        "first_name": "Loulou",
+        "description": "A l'heure du goûter, t'as pas intérêt à être sur son trajet."
+    },
+    {
+        "id": 131,
+        "version": "Crados 1",
+        "family": "Lardos",
+        "name": "AMEDEE râpée",
+        "first_name": "Amedee",
+        "description": "Amédée a mauvais caractère : elle n'arrête pasde faire des salades."
+    },
+    {
+        "id": 132,
+        "version": "Crados 1",
+        "family": "Craignos",
+        "name": "TONY truand",
+        "first_name": "Tony",
+        "description": "Tony ne sait pas lire, mail il aime bien les photosdans les catalogues d'armes."
+    },
+    {
+        "id": 133,
+        "version": "Crados 1",
+        "family": "Craignos",
+        "name": "NANAR motard",
+        "first_name": "Nanar",
+        "description": "Si Nanar te propose d'aller voir sa collection, méfie toides éclats : c'est des tessons de bouteilles."
+    },
+    {
+        "id": 134,
+        "version": "Crados 1",
+        "family": "Craignos",
+        "name": "RAMBO joe",
+        "first_name": "Rambo",
+        "description": "Pour réussir ses examens, Joe emploie les grands moyens. Il y estforcé, il n'en a pas d'autres."
+    },
+    {
+        "id": 135,
+        "version": "Crados 1",
+        "family": "Craignos",
+        "name": "ANDRE bourré",
+        "first_name": "Andre",
+        "description": "C'était un pilier de rugby. Depuis qu'il s'est fait virer de l'école, André est devenu pilier de bar."
+    },
+    {
+        "id": 136,
+        "version": "Crados 1",
+        "family": "Craignos",
+        "name": "MANU velu",
+        "first_name": "Manu",
+        "description": "Manu Velu et Lulu Poilue font marcher leurs enfants à la massue."
+    },
+    {
+        "id": 137,
+        "version": "Crados 1",
+        "family": "Craignos",
+        "name": "LULU poilue",
+        "first_name": "Lulu",
+        "description": "Manu Velu et Lulu Poilue font marcher leurs enfants à la massue."
+    },
+    {
+        "id": 138,
+        "version": "Crados 1",
+        "family": "Craignos",
+        "name": "NICOLAS cadenas",
+        "first_name": "Nicolas",
+        "description": "Et voici Nicolas, le fou à lier des Craignos."
+    },
+    {
+        "id": 139,
+        "version": "Crados 1",
+        "family": "Craignos",
+        "name": "LEONARD de Paris",
+        "first_name": "Leonard",
+        "description": "Pauvre Léonard ! T'aurais pas dû te trouversur le chemin de Martial Vandale !."
+    },
+    {
+        "id": 140,
+        "version": "Crados 1",
+        "family": "Craignos",
+        "name": "PAT le pirate",
+        "first_name": "Pat",
+        "description": "Ne serre jamais la pince à Pat, tu risques de prendreun crochet du gauche."
+    },
+    {
+        "id": 141,
+        "version": "Crados 1",
+        "family": "Craignos",
+        "name": "JULIEN vaurien",
+        "first_name": "Julien",
+        "description": "Julien n'a rien foutu de l'année. Au conseil de classe,il s'est fait exécuter."
+    },
+    {
+        "id": 142,
+        "version": "Crados 1",
+        "family": "Craignos",
+        "name": "DENIS pourri",
+        "first_name": "Denis",
+        "description": "Pour s'endormir, Denis a un truc infaillible : il compte les vers de terre."
+    },
+    {
+        "id": 143,
+        "version": "Crados 1",
+        "family": "Craignos",
+        "name": "ROGER partagé",
+        "first_name": "Roger",
+        "description": "Roger a une double personnalité : premier de la classe dans la journée, voleur de billes dans la soirée."
+    },
+    {
+        "id": 144,
+        "version": "Crados 1",
+        "family": "Craignos",
+        "name": "DANIEL sourdoreille",
+        "first_name": "Daniel",
+        "description": "Son radiocassette, Daniel l'écoute à tue tête."
+    },
+    {
+        "id": 145,
+        "version": "Crados 1",
+        "family": "Craignos",
+        "name": "balèze BLAISE",
+        "first_name": "Blaise",
+        "description": "L'adresse de Blaise : 15, boulevard des Pectoraux,Le Kremlin-Biceps."
+    },
+    {
+        "id": 146,
+        "version": "Crados 1",
+        "family": "Craignos",
+        "name": "BRUNO KO",
+        "first_name": "Bruno",
+        "description": "Les films préférés de Bruno : Rocky I, II, III, IV, etcCHEF DES CRAIGNOSAdresse : 18, rue des Gros-Pains, Cap d'AÃ¯eGros coups- 18/06/84 - entre par effraction dans un pensionnat de jeunes filles et les asperge de petits suisses- 07/03/85 - tatoue son nom et adresse sur tous les arbres du quartier- 10/09/88 - recouvre de scotch la figure de boutonneux en phase terminale. Puis tire doucement ...Grands piedsPlat : la dinde aux marrons. - Chanson : Laisse béton. - Livre : la Boxe en dix rounds - Télé : Starsky et Hutch. - Citation :  \"tu veux voir ma collection de dents cassées ?\""
+    },
+    {
+        "id": 147,
+        "version": "Crados 1",
+        "family": "Craignos",
+        "name": "LAURENT chébran",
+        "first_name": "Laurent",
+        "description": "Avec sa guitare électrique, Laurent a fait sauterles plombs de tout le quartier."
+    },
+    {
+        "id": 148,
+        "version": "Crados 1",
+        "family": "Craignos",
+        "name": "extra THERESE",
+        "first_name": "Therese",
+        "description": "Thérèse n'a vraiment pas les pieds sur terre : elle plane."
+    },
+    {
+        "id": 149,
+        "version": "Crados 1",
+        "family": "Craignos",
+        "name": "BERNARD loubard",
+        "first_name": "Bernard",
+        "description": "Le plat préféré de Bernard : la purée de marrons.Son adresse: 89, rue de Baston, Houilles."
+    },
+    {
+        "id": 150,
+        "version": "Crados 1",
+        "family": "Craignos",
+        "name": "STEPHANE spiderman",
+        "first_name": "Stephane",
+        "description": "A force d'aller au coin, Stéphane s'est fait de nouveaux copains."
+    },
+    {
+        "id": 151,
+        "version": "Crados 1",
+        "family": "Craignos",
+        "name": "GUGUSSE cactus",
+        "first_name": "Gugusse",
+        "description": "Guggusse, qui s'y frotte s'y pique."
+    },
+    {
+        "id": 152,
+        "version": "Crados 1",
+        "family": "Craignos",
+        "name": "ROMAIN touterrain",
+        "first_name": "Romain",
+        "description": "Tout jeune, Romain a eu un accident de poussette.Des années plus tard, il dépasse encore les bornes."
+    },
+    {
+        "id": 153,
+        "version": "Crados 1",
+        "family": "Craignos",
+        "name": "GERARD le barbare",
+        "first_name": "Gerard",
+        "description": "Quand la cloche sonne pour la récré, Gérard est déjà dehors."
+    },
+    {
+        "id": 154,
+        "version": "Crados 1",
+        "family": "Craignos",
+        "name": "MARTIAL vandale",
+        "first_name": "Martial",
+        "description": "Chez Martial, les murs sont roses, sa mère est rouge de rage,et son père noir de colère."
+    },
+    {
+        "id": 155,
+        "version": "Crados 1",
+        "family": "Craignos",
+        "name": "ALPHONSE défonce",
+        "first_name": "Alphonse",
+        "description": "Alphonse est un peu pyromane : il brûle les moquettes, les vêtements,les meubles ... et les copains."
+    },
+    {
+        "id": 156,
+        "version": "Crados 1",
+        "family": "Craignos",
+        "name": "MARION insolation",
+        "first_name": "Marion",
+        "description": "Marion est tellement rôtie que les chiens la prennentpour un poulet."
+    },
+    {
+        "id": 157,
+        "version": "Crados 1",
+        "family": "Craignos",
+        "name": "CAROLE guignol",
+        "first_name": "Carole",
+        "description": "La chanson préférée de Carole : Ainsi font, font, font ..."
+    },
+    {
+        "id": 158,
+        "version": "Crados 1",
+        "family": "Craignos",
+        "name": "OCTAVE tatouage",
+        "first_name": "Octave",
+        "description": "Octave s'est fait tatoué les adresses des écoles d'oÃ¹ il s'estfait virer : il y en a sur les deux bras."
+    },
+    {
+        "id": 159,
+        "version": "Crados 1",
+        "family": "Craignos",
+        "name": "CEDRIC cosmic",
+        "first_name": "Cedric",
+        "description": "Cédric est remonté, il roule des mécaniques."
+    },
+    {
+        "id": 160,
+        "version": "Crados 1",
+        "family": "Puzzle-Toi - 1",
+        "name": "",
+        "first_name": "Lionel",
+        "description": "Puzzle LIONEL poubelle"
+    },
+    {
+        "id": 161,
+        "version": "Crados 1",
+        "family": "Puzzle-Toi - 1",
+        "name": "",
+        "first_name": "Lionel",
+        "description": "Puzzle LIONEL poubelle"
+    },
+    {
+        "id": 162,
+        "version": "Crados 1",
+        "family": "Puzzle-Toi - 1",
+        "name": "",
+        "first_name": "Lionel",
+        "description": "Puzzle LIONEL poubelle"
+    },
+    {
+        "id": 163,
+        "version": "Crados 1",
+        "family": "Puzzle-Toi - 1",
+        "name": "",
+        "first_name": "Lionel",
+        "description": "Puzzle LIONEL poubelle"
+    },
+    {
+        "id": 164,
+        "version": "Crados 1",
+        "family": "Puzzle-Toi - 1",
+        "name": "",
+        "first_name": "Lionel",
+        "description": "Puzzle LIONEL poubelle"
+    },
+    {
+        "id": 165,
+        "version": "Crados 1",
+        "family": "Puzzle-Toi - 1",
+        "name": "",
+        "first_name": "Lionel",
+        "description": "Puzzle LIONEL poubelle"
+    },
+    {
+        "id": 166,
+        "version": "Crados 1",
+        "family": "Puzzle-Toi - 1",
+        "name": "",
+        "first_name": "Lionel",
+        "description": "Puzzle LIONEL poubelle"
+    },
+    {
+        "id": 167,
+        "version": "Crados 1",
+        "family": "Puzzle-Toi - 1",
+        "name": "",
+        "first_name": "Lionel",
+        "description": "Puzzle LIONEL poubelle"
+    },
+    {
+        "id": 168,
+        "version": "Crados 1",
+        "family": "Puzzle-Toi - 1",
+        "name": "",
+        "first_name": "Lionel",
+        "description": "Puzzle LIONEL poubelle"
+    },
+    {
+        "id": 169,
+        "version": "Crados 1",
+        "family": "Puzzle-Toi - 2",
+        "name": "",
+        "first_name": "Agnes",
+        "description": "Puzzle AGNES Caisse"
+    },
+    {
+        "id": 170,
+        "version": "Crados 1",
+        "family": "Puzzle-Toi - 2",
+        "name": "",
+        "first_name": "Agnes",
+        "description": "Puzzle AGNES Caisse"
+    },
+    {
+        "id": 171,
+        "version": "Crados 1",
+        "family": "Puzzle-Toi - 2",
+        "name": "",
+        "first_name": "Agnes",
+        "description": "Puzzle AGNES Caisse"
+    },
+    {
+        "id": 172,
+        "version": "Crados 1",
+        "family": "Puzzle-Toi - 2",
+        "name": "",
+        "first_name": "Agnes",
+        "description": "Puzzle AGNES Caisse"
+    },
+    {
+        "id": 173,
+        "version": "Crados 1",
+        "family": "Puzzle-Toi - 2",
+        "name": "",
+        "first_name": "Agnes",
+        "description": "Puzzle AGNES Caisse"
+    },
+    {
+        "id": 174,
+        "version": "Crados 1",
+        "family": "Puzzle-Toi - 2",
+        "name": "",
+        "first_name": "Agnes",
+        "description": "Puzzle AGNES Caisse"
+    },
+    {
+        "id": 175,
+        "version": "Crados 1",
+        "family": "Puzzle-Toi - 2",
+        "name": "",
+        "first_name": "Agnes",
+        "description": "Puzzle AGNES Caisse"
+    },
+    {
+        "id": 176,
+        "version": "Crados 1",
+        "family": "Puzzle-Toi - 2",
+        "name": "",
+        "first_name": "Agnes",
+        "description": "Puzzle AGNES Caisse"
+    },
+    {
+        "id": 177,
+        "version": "Crados 1",
+        "family": "Puzzle-Toi - 2",
+        "name": "",
+        "first_name": "Agnes",
+        "description": "Puzzle AGNES Caisse"
+    },
+    {
+        "id": 178,
+        "version": "Crados 2",
+        "family": "Degueulos",
+        "name": "EDWIGE coton-tige",
+        "first_name": "Edwige",
+        "description": "Même si Edwige est sourde comme un pot, un bon conseil,ne lui crie pas dans l'oreille."
+    },
+    {
+        "id": 179,
+        "version": "Crados 2",
+        "family": "Degueulos",
+        "name": "GAUTHIER pudépieds",
+        "first_name": "Gauthier",
+        "description": "Gauthier est le meilleur copain de Laétitia Pudébras.Dans la rue, tu les rencontreras bras dessus pied dessous."
+    },
+    {
+        "id": 180,
+        "version": "Crados 2",
+        "family": "Degueulos",
+        "name": "EMILIE guili-guili",
+        "first_name": "Emilie",
+        "description": "En classe, Emilie n'arrête pas de lever le doigt pour que tout lemonde voit ses poils de bras."
+    },
+    {
+        "id": 181,
+        "version": "Crados 2",
+        "family": "Degueulos",
+        "name": "CORINNE tartine",
+        "first_name": "Corinne",
+        "description": "Corinne est si goinfre qu'elle s'étale son quatre heuresjusqu'aux oreilles."
+    },
+    {
+        "id": 182,
+        "version": "Crados 2",
+        "family": "Degueulos",
+        "name": "couche COLETTE",
+        "first_name": "Colette",
+        "description": "Colette adore faire trempette et personne ne la changera."
+    },
+    {
+        "id": 183,
+        "version": "Crados 2",
+        "family": "Degueulos",
+        "name": "ROBIN des doigts",
+        "first_name": "Robin",
+        "description": "Robin avait envie de s'appeler Horace Grimace quand trois supercrados lui ont proposé Robin des Doigts. ROBIN DES DOIGTS, LE MEILLEUR POTE DE MATHIEU LE DEGUEULa blague préférée de Robin et Mathieu :- Pourquoi le Petit Poucet voyage-t-il en bateau depuis qu'il a dix-huit ans ?- Parce que dès qu'il a été majeur, il est entré dans la narine."
+    },
+    {
+        "id": 184,
+        "version": "Crados 2",
+        "family": "Degueulos",
+        "name": "MARTINE à sous",
+        "first_name": "Martine",
+        "description": "Si tu tentes ta chance avec Martine, rien ne va plus,ce n'est pas la monnaie qu'elle rend."
+    },
+    {
+        "id": 185,
+        "version": "Crados 2",
+        "family": "Degueulos",
+        "name": "ROBERT pissotière",
+        "first_name": "Robert",
+        "description": "Pour Robert, la toilette se passe aux toilettes."
+    },
+    {
+        "id": 186,
+        "version": "Crados 2",
+        "family": "Degueulos",
+        "name": "KEVIN ordure",
+        "first_name": "Kevin",
+        "description": "Le grand frère de Kevin s'appelle Ben."
+    },
+    {
+        "id": 187,
+        "version": "Crados 2",
+        "family": "Degueulos",
+        "name": "MANON chiffon",
+        "first_name": "Manon",
+        "description": "Quand Manon a mal au coeur, tu en vois de toutes les couleurs."
+    },
+    {
+        "id": 188,
+        "version": "Crados 2",
+        "family": "Degueulos",
+        "name": "LOIC lagicle",
+        "first_name": "Loic",
+        "description": "Pour partir à l'école, les boutons de Loïcsont plus pressés que lui."
+    },
+    {
+        "id": 189,
+        "version": "Crados 2",
+        "family": "Degueulos",
+        "name": "HECTOR ché",
+        "first_name": "Hector",
+        "description": "En dehors du papier, la vie d'Hector n'est pas rose.Il essuie beaucoup de revers."
+    },
+    {
+        "id": 190,
+        "version": "Crados 2",
+        "family": "Degueulos",
+        "name": "PATRICIA crachat",
+        "first_name": "Patricia",
+        "description": "Au bassin des Tuileries, Patricia se prend pour un jet d'eau."
+    },
+    {
+        "id": 191,
+        "version": "Crados 2",
+        "family": "Degueulos",
+        "name": "GEOFFROY le bouillon",
+        "first_name": "Geoffroy",
+        "description": "Geoffroy est complètement bouché.Aux cartes, il se fait lessiver."
+    },
+    {
+        "id": 192,
+        "version": "Crados 2",
+        "family": "Degueulos",
+        "name": "CHRISTINE seccotine",
+        "first_name": "Christine",
+        "description": "N'approche surtout pas de Christine, c'est un vrai pot de colle."
+    },
+    {
+        "id": 193,
+        "version": "Crados 2",
+        "family": "Degueulos",
+        "name": "GEORGES tademorve",
+        "first_name": "Georges",
+        "description": "Georges regorge de morve, c'est son sucre d'orge."
+    },
+    {
+        "id": 194,
+        "version": "Crados 2",
+        "family": "Degueulos",
+        "name": "LUCILE dégobille",
+        "first_name": "Lucile",
+        "description": "Les jours où Lucile fait la cuisine, tout le mondepart au resto."
+    },
+    {
+        "id": 195,
+        "version": "Crados 2",
+        "family": "Degueulos",
+        "name": "KARL vermeil",
+        "first_name": "Karl",
+        "description": "Karl a pris un sacré coup de vieux en entrant au lycée."
+    },
+    {
+        "id": 196,
+        "version": "Crados 2",
+        "family": "Degueulos",
+        "name": "DEBORAH cra-cra",
+        "first_name": "Deborah",
+        "description": "Pour rester en forme, Déborah saute à la morve."
+    },
+    {
+        "id": 197,
+        "version": "Crados 2",
+        "family": "Degueulos",
+        "name": "JEROME gastronome",
+        "first_name": "Jerome",
+        "description": "Au resto, Jérôme mange à l'oeil."
+    },
+    {
+        "id": 198,
+        "version": "Crados 2",
+        "family": "Degueulos",
+        "name": "NINON buldesavon",
+        "first_name": "Ninon",
+        "description": "Ninon a trop coincé la bulle, on lui a passé un savon."
+    },
+    {
+        "id": 199,
+        "version": "Crados 2",
+        "family": "Degueulos",
+        "name": "FATIMA labar",
+        "first_name": "Fatima",
+        "description": "Qu'est-ce qu'elle est gonflée, Fatima !Elle ne mâche pas ses mots."
+    },
+    {
+        "id": 200,
+        "version": "Crados 2",
+        "family": "Degueulos",
+        "name": "SANDRA de marée",
+        "first_name": "Sandra",
+        "description": "Sandra a une bonne copine : Ninon Dation.Quand elles sont ensemble, ça baigne."
+    },
+    {
+        "id": 201,
+        "version": "Crados 2",
+        "family": "Degueulos",
+        "name": "ROBINSON culotté",
+        "first_name": "Robinson",
+        "description": "Tous les vendredis, Robinson fait naufrage dans les cabinets."
+    },
+    {
+        "id": 202,
+        "version": "Crados 2",
+        "family": "Degueulos",
+        "name": "NELLY cule",
+        "first_name": "Nelly",
+        "description": "Nelly habite une station de ski. Grâce à ses pellicules,il y a de la neige toute l'année."
+    },
+    {
+        "id": 203,
+        "version": "Crados 2",
+        "family": "Degueulos",
+        "name": "boucles d ARIELLE",
+        "first_name": "Arielle",
+        "description": "Si tu as un secret, méfie-toi d'Arielle, elle a tout le tempsune oreille qui traîne."
+    },
+    {
+        "id": 204,
+        "version": "Crados 2",
+        "family": "Degueulos",
+        "name": "MARIELLE aquarelle",
+        "first_name": "Marielle",
+        "description": "Les ennemis de Marielle ne peuvent pas la voir en peinture."
+    },
+    {
+        "id": 205,
+        "version": "Crados 2",
+        "family": "Animos",
+        "name": "dino LAURE",
+        "first_name": "Laure",
+        "description": "Chez Laure, ton chien trouvera toujours un os à ronger."
+    },
+    {
+        "id": 206,
+        "version": "Crados 2",
+        "family": "Animos",
+        "name": "MAYA inca",
+        "first_name": "Maya",
+        "description": "Aucun doute, Maya est un cas."
+    },
+    {
+        "id": 207,
+        "version": "Crados 2",
+        "family": "Animos",
+        "name": "KERMIT termites",
+        "first_name": "Kermit",
+        "description": "Kermit a trop d'admiratices. Elles lui bouffent la tête."
+    },
+    {
+        "id": 208,
+        "version": "Crados 2",
+        "family": "Animos",
+        "name": "ABEL et la bête",
+        "first_name": "Abel",
+        "description": "Abel a de bon côtés ... Du moins, UN bon côté."
+    },
+    {
+        "id": 209,
+        "version": "Crados 2",
+        "family": "Animos",
+        "name": "PHILOMENE totem",
+        "first_name": "Philomene",
+        "description": "Dans les échanges d'images Crados,Philomène te plume à chaque fois."
+    },
+    {
+        "id": 210,
+        "version": "Crados 2",
+        "family": "Animos",
+        "name": "MARGOT escargot",
+        "first_name": "Margot",
+        "description": "Tu peux suivre Margot à la trace tellement elle bave."
+    },
+    {
+        "id": 211,
+        "version": "Crados 2",
+        "family": "Animos",
+        "name": "HECTOR carnivore",
+        "first_name": "Hector",
+        "description": "Avec Hector faut avoir du pot."
+    },
+    {
+        "id": 212,
+        "version": "Crados 2",
+        "family": "Animos",
+        "name": "NATACHA d'gouttière",
+        "first_name": "Natacha",
+        "description": "Dès qu'elle voit un rat, Natacha sourit."
+    },
+    {
+        "id": 213,
+        "version": "Crados 2",
+        "family": "Animos",
+        "name": "THOMAS sticot",
+        "first_name": "Thomas",
+        "description": "Thomas est malhonnête. Il est vereux."
+    },
+    {
+        "id": 214,
+        "version": "Crados 2",
+        "family": "Animos",
+        "name": "gibier de FLORENCE",
+        "first_name": "Florence",
+        "description": "Si quelqu'un tire la chasse à sa place,Florence a aussitôt des ennuis."
+    },
+    {
+        "id": 215,
+        "version": "Crados 2",
+        "family": "Animos",
+        "name": "ADAM delamer",
+        "first_name": "Adam",
+        "description": "Quand Adam ouvre la bouche, sois en sûr,ce n'est pas pour bavarder."
+    },
+    {
+        "id": 216,
+        "version": "Crados 2",
+        "family": "Animos",
+        "name": "BEA constrictor",
+        "first_name": "Bea",
+        "description": "Béa est bien entourée, elle aime être serrée de près."
+    },
+    {
+        "id": 217,
+        "version": "Crados 2",
+        "family": "Animos",
+        "name": "OLIVER de terre",
+        "first_name": "Oliver",
+        "description": "Méfie-toi d'Oliver, il pue du bec."
+    },
+    {
+        "id": 218,
+        "version": "Crados 2",
+        "family": "Animos",
+        "name": "JENNIFER vipère",
+        "first_name": "Jennifer",
+        "description": "Le coiffeur de Jennifer est un charmeur....de serpents."
+    },
+    {
+        "id": 219,
+        "version": "Crados 2",
+        "family": "Animos",
+        "name": "RACHID pyramide",
+        "first_name": "Rachid",
+        "description": "N'espère rien de Rachid, il a un coeur de pierre."
+    },
+    {
+        "id": 220,
+        "version": "Crados 2",
+        "family": "Animos",
+        "name": "JACQUES-YVES aladérive",
+        "first_name": "Jacques",
+        "description": "Jacques-Yves barbote toutes les images Crados qu'il voit traîner. JACQUES-YVES ALADERIVE, LE CORRESPONDANT DE SIMON LE COCHONJacques-Yves habite Caille-sur-Mer, chaque semaine il envoie à Simon une caissede bonbons préférés : les moules-d'égout, celles qui sont tellement mazoutées qu''il suffitde les sucer."
+    },
+    {
+        "id": 221,
+        "version": "Crados 2",
+        "family": "Animos",
+        "name": "PRISCILLA chinchilla",
+        "first_name": "Priscilla",
+        "description": "Priscilla n'est jamais de mauvais poil. Dès qu'elle te voit, elle se jette à ton cou."
+    },
+    {
+        "id": 222,
+        "version": "Crados 2",
+        "family": "Animos",
+        "name": "MAGALI mygale",
+        "first_name": "Magali",
+        "description": "Tous les mercredis après-midi, Magali se paye une toile."
+    },
+    {
+        "id": 223,
+        "version": "Crados 2",
+        "family": "Animos",
+        "name": "MARIANNE platane",
+        "first_name": "Marianne",
+        "description": "Si tu invites cette vieille branche de Marianne, impossible de t'en débarrasser, elle prend racine."
+    },
+    {
+        "id": 224,
+        "version": "Crados 2",
+        "family": "Animos",
+        "name": "LUCAS nigou",
+        "first_name": "Lucas",
+        "description": "Les chiens ont un ami fidèle : Lucas."
+    },
+    {
+        "id": 225,
+        "version": "Crados 2",
+        "family": "Animos",
+        "name": "COLIN coin-coin",
+        "first_name": "Colin",
+        "description": "Avec Colin, ça canarde. Les insultes, il les craches en rafales."
+    },
+    {
+        "id": 226,
+        "version": "Crados 2",
+        "family": "Animos",
+        "name": "MIREILLE abeille",
+        "first_name": "Mireille",
+        "description": "Mireille n'a que ce qu'elle mérite : elle est complètement piquée."
+    },
+    {
+        "id": 227,
+        "version": "Crados 2",
+        "family": "Animos",
+        "name": "EDGAR taulard",
+        "first_name": "Edgar",
+        "description": "Edgar est au régime. Pour l'empêcher de piller le frigo, ses parents ont dû le mettre en cage."
+    },
+    {
+        "id": 228,
+        "version": "Crados 2",
+        "family": "Animos",
+        "name": "ALI gator",
+        "first_name": "Ali",
+        "description": "Géraldine Sardine est fâchée avec Ali,il en verse des larmes de crocodile."
+    },
+    {
+        "id": 229,
+        "version": "Crados 2",
+        "family": "Animos",
+        "name": "GERALDINE sardine",
+        "first_name": "Geraldine",
+        "description": "Géraldine n'est pas maline, elle est facile à mettre en boîte."
+    },
+    {
+        "id": 230,
+        "version": "Crados 2",
+        "family": "Animos",
+        "name": "EDOUARD charognard",
+        "first_name": "Edouard",
+        "description": "Edouard n'aime pas la viande, seulement les asticots quigrouillent dedans quand elle est pourrie."
+    },
+    {
+        "id": 231,
+        "version": "Crados 2",
+        "family": "Animos",
+        "name": "RENAUD 2 chevaux",
+        "first_name": "Renaud",
+        "description": "Renaud sent tellement mauvais qu'il dort à l'écurie."
+    },
+    {
+        "id": 232,
+        "version": "Crados 2",
+        "family": "Animos",
+        "name": "jar DIDIER",
+        "first_name": "Didier",
+        "description": "Didier est un semeur d'embrouilles. Avec lui, il y a tout le temps des salades."
+    },
+    {
+        "id": 233,
+        "version": "Crados 2",
+        "family": "Animos",
+        "name": "MATHIAS paillasse",
+        "first_name": "Mathias",
+        "description": "Les corbeaux se régalent avec Mathias mais lui reste sur la paille."
+    },
+    {
+        "id": 234,
+        "version": "Crados 2",
+        "family": "Animos",
+        "name": "ROMEO crapaud",
+        "first_name": "Romeo",
+        "description": "Roméo est amoureux de Quatorze Juliette. Comme elle le regardede haut, il a pris la mouche."
+    },
+    {
+        "id": 235,
+        "version": "Crados 2",
+        "family": "Animos",
+        "name": "LOLA lolo",
+        "first_name": "Lola",
+        "description": "Lola ne parle beaucoup, elle préfère se traire."
+    },
+    {
+        "id": 236,
+        "version": "Crados 2",
+        "family": "Animos",
+        "name": "GISELE oulacuisse",
+        "first_name": "Gisele",
+        "description": "S'il y a de la bouffe, Gisèle l'arrache au vol."
+    },
+    {
+        "id": 237,
+        "version": "Crados 2",
+        "family": "Animos",
+        "name": "ALDO rak",
+        "first_name": "Aldo",
+        "description": "Aldo ne sort jamais les jours de pluie. Il rouille."
+    },
+    {
+        "id": 238,
+        "version": "Crados 2",
+        "family": "Animos",
+        "name": "NADEGE p titdej",
+        "first_name": "Nadege",
+        "description": "Tous les matins, Nadège est pressée au petit déjeuner."
+    },
+    {
+        "id": 239,
+        "version": "Crados 2",
+        "family": "Gravos",
+        "name": "MARION paillasson",
+        "first_name": "Marion",
+        "description": "Marion est si nulle en classe que son prof l'a mise à la porte."
+    },
+    {
+        "id": 240,
+        "version": "Crados 2",
+        "family": "Gravos",
+        "name": "GUILLAUME alagomme",
+        "first_name": "Guillaume",
+        "description": "Guillaume a les boules, rien ne mâche comme il voudrait."
+    },
+    {
+        "id": 241,
+        "version": "Crados 2",
+        "family": "Gravos",
+        "name": "ANAIS dentifrice",
+        "first_name": "Anais",
+        "description": "Pour trouver des caries à Anaïs, tu peux toujours te brosser."
+    },
+    {
+        "id": 242,
+        "version": "Crados 2",
+        "family": "Gravos",
+        "name": "FLORENT sansdent",
+        "first_name": "Florent",
+        "description": "Florent ne prend pas de gant pour te demander dix balles."
+    },
+    {
+        "id": 243,
+        "version": "Crados 2",
+        "family": "Gravos",
+        "name": "RAYMOND potiron",
+        "first_name": "Raymond",
+        "description": "Il faut l'avouer, Raymond est une courge."
+    },
+    {
+        "id": 244,
+        "version": "Crados 2",
+        "family": "Gravos",
+        "name": "CLAUDETTE couet-couet",
+        "first_name": "Claudette",
+        "description": "Claudette avait la langue bien pendue,elle l'a maintenant bien tordue."
+    },
+    {
+        "id": 245,
+        "version": "Crados 2",
+        "family": "Gravos",
+        "name": "SAMIR poindemir",
+        "first_name": "Samir",
+        "description": "Depuis qu'il va à la fête foraine, Samir a enfin prisdu plomb dans la cervelle."
+    },
+    {
+        "id": 246,
+        "version": "Crados 2",
+        "family": "Gravos",
+        "name": "AURELIE ramollie",
+        "first_name": "Aurelie",
+        "description": "En face d'Aurélie, même les miroirs se gondolent."
+    },
+    {
+        "id": 247,
+        "version": "Crados 2",
+        "family": "Gravos",
+        "name": "JERONIMO aplato",
+        "first_name": "Jeronimo",
+        "description": "Jeronimo a un gros défaut : il a vite fait de se monter la tête."
+    },
+    {
+        "id": 248,
+        "version": "Crados 2",
+        "family": "Gravos",
+        "name": "PASCAL spatial",
+        "first_name": "Pascal",
+        "description": "Ciel, Pascal a le nez dans les étoiles."
+    },
+    {
+        "id": 249,
+        "version": "Crados 2",
+        "family": "Gravos",
+        "name": "aspir ARTHUR",
+        "first_name": "Arthur",
+        "description": "Arthur passe ses journées le nez au ras de la moquette."
+    },
+    {
+        "id": 250,
+        "version": "Crados 2",
+        "family": "Gravos",
+        "name": "AGNES tête-de-fesses",
+        "first_name": "Agnes",
+        "description": "Agnès, les mouchoirs, elle les achète en rouleaux."
+    },
+    {
+        "id": 251,
+        "version": "Crados 2",
+        "family": "Gravos",
+        "name": "HENRI bambelle",
+        "first_name": "Henri",
+        "description": "Henri s'est entêté, c'est le moins qu'on puisse dire."
+    },
+    {
+        "id": 252,
+        "version": "Crados 2",
+        "family": "Gravos",
+        "name": "MARIE-CLAIRE de lune",
+        "first_name": "Marie",
+        "description": "Marie-Claire tourne en rond. Elle est en orbite."
+    },
+    {
+        "id": 253,
+        "version": "Crados 2",
+        "family": "Gravos",
+        "name": "DOMINIQUE cubik",
+        "first_name": "Dominique",
+        "description": "Dominique n'a plus les idées en place depuis que Bruno KOlui a mis la tête au carré."
+    },
+    {
+        "id": 254,
+        "version": "Crados 2",
+        "family": "Gravos",
+        "name": "TOM pouce",
+        "first_name": "Tom",
+        "description": "Il suffit à Tom de grignoter sur le pouce pour se caler l'estomac."
+    },
+    {
+        "id": 255,
+        "version": "Crados 2",
+        "family": "Gravos",
+        "name": "ARNAUD glaviot",
+        "first_name": "Arnaud",
+        "description": "Mets des gants avant de serrer la main à Arnaud."
+    },
+    {
+        "id": 256,
+        "version": "Crados 2",
+        "family": "Gravos",
+        "name": "TRISTAN et yzieute",
+        "first_name": "Tristan",
+        "description": "Quand tu regardes Tristan dans les yeux, c'est des pieds à la tête."
+    },
+    {
+        "id": 257,
+        "version": "Crados 2",
+        "family": "Gravos",
+        "name": "YOLANDE de chevet",
+        "first_name": "Yolande",
+        "description": "Tu veux allumer Yolande ? Presse-lui un bouton."
+    },
+    {
+        "id": 258,
+        "version": "Crados 2",
+        "family": "Gravos",
+        "name": "LILI berté",
+        "first_name": "Lili",
+        "description": "Quand Lili fait du stop, seuls les camions à ordures s'arrêtent."
+    },
+    {
+        "id": 259,
+        "version": "Crados 2",
+        "family": "Gravos",
+        "name": "ALAIN bécile",
+        "first_name": "Alain",
+        "description": "Alain n'est pas malin mais, il a du ressort."
+    },
+    {
+        "id": 260,
+        "version": "Crados 2",
+        "family": "Gravos",
+        "name": "MARIE-LOUISE lamouise",
+        "first_name": "Marie",
+        "description": "Plus poubelle que Marie-Louise, tu meurs."
+    },
+    {
+        "id": 261,
+        "version": "Crados 2",
+        "family": "Gravos",
+        "name": "ongle SAM",
+        "first_name": "Sam",
+        "description": "Aux Etas-Unis Sam est une star, une tête d'affiche."
+    },
+    {
+        "id": 262,
+        "version": "Crados 2",
+        "family": "Gravos",
+        "name": "STELLA bigleuse",
+        "first_name": "Stella",
+        "description": "Fais gaffe à Stella, elle est louche."
+    },
+    {
+        "id": 263,
+        "version": "Crados 2",
+        "family": "Gravos",
+        "name": "BOB 50",
+        "first_name": "Bob",
+        "description": "Bob ne va jamais écouter de la House Music sans son badge."
+    },
+    {
+        "id": 264,
+        "version": "Crados 2",
+        "family": "Gravos",
+        "name": "parlamon LUC",
+        "first_name": "Luc",
+        "description": "Si tu parles à Luc, n'oublie pas que sa tête est malade. PARLAMON LUC, ENNEMI JURE DE FRANCK LE CANCREFranck ne peut pas saquer Luc parce qu'il en est jaloux. Luc est aussi nul en classemais il n'a jamais de problème avec ses carnets de note : il s'assied dessus ... et les mange."
+    },
+    {
+        "id": 265,
+        "version": "Crados 2",
+        "family": "Gravos",
+        "name": "DEDE l obsédé",
+        "first_name": "Dede",
+        "description": "Dédé a une drôle de bibliothèque rose."
+    },
+    {
+        "id": 266,
+        "version": "Crados 2",
+        "family": "Gravos",
+        "name": "YVAN triloque",
+        "first_name": "Yvan",
+        "description": "Dans une discussion, tu n'en places pas une avec Yvan.Il parle pour deux."
+    },
+    {
+        "id": 267,
+        "version": "Crados 2",
+        "family": "Gravos",
+        "name": "REGIS saucisse",
+        "first_name": "Regis",
+        "description": "La fiancée de Régis est un vrai boudin."
+    },
+    {
+        "id": 268,
+        "version": "Crados 2",
+        "family": "Gravos",
+        "name": "YANN plane",
+        "first_name": "Yann",
+        "description": "A l'école, Yann est toujours dans les nuages. C'est une vraie tête en l'air."
+    },
+    {
+        "id": 269,
+        "version": "Crados 2",
+        "family": "Gravos",
+        "name": "ANNIE cradomanie",
+        "first_name": "Annie",
+        "description": "Depuis qu'elle collectionne les vignettes Crados, Annie est sage comme une image."
+    },
+    {
+        "id": 270,
+        "version": "Crados 2",
+        "family": "Gravos",
+        "name": "PEDRO drapeau",
+        "first_name": "Pedro",
+        "description": "Votez Pedro, un gars dans le vent."
+    },
+    {
+        "id": 271,
+        "version": "Crados 2",
+        "family": "Puzzle-Toi - 3",
+        "name": "CEDRIC Abrac",
+        "first_name": "Cedric",
+        "description": ""
+    },
+    {
+        "id": 272,
+        "version": "Crados 2",
+        "family": "Puzzle-Toi - 3",
+        "name": "CEDRIC Abrac",
+        "first_name": "Cedric",
+        "description": ""
+    },
+    {
+        "id": 273,
+        "version": "Crados 2",
+        "family": "Puzzle-Toi - 3",
+        "name": "CEDRIC Abrac",
+        "first_name": "Cedric",
+        "description": ""
+    },
+    {
+        "id": 274,
+        "version": "Crados 2",
+        "family": "Puzzle-Toi - 3",
+        "name": "CEDRIC Abrac",
+        "first_name": "Cedric",
+        "description": ""
+    },
+    {
+        "id": 275,
+        "version": "Crados 2",
+        "family": "Puzzle-Toi - 3",
+        "name": "CEDRIC Abrac",
+        "first_name": "Cedric",
+        "description": ""
+    },
+    {
+        "id": 276,
+        "version": "Crados 2",
+        "family": "Puzzle-Toi - 3",
+        "name": "CEDRIC Abrac",
+        "first_name": "Cedric",
+        "description": ""
+    },
+    {
+        "id": 277,
+        "version": "Crados 2",
+        "family": "Puzzle-Toi - 3",
+        "name": "CEDRIC Abrac",
+        "first_name": "Cedric",
+        "description": ""
+    },
+    {
+        "id": 278,
+        "version": "Crados 2",
+        "family": "Puzzle-Toi - 3",
+        "name": "CEDRIC Abrac",
+        "first_name": "Cedric",
+        "description": ""
+    },
+    {
+        "id": 279,
+        "version": "Crados 2",
+        "family": "Puzzle-Toi - 3",
+        "name": "CEDRIC Abrac",
+        "first_name": "Cedric",
+        "description": ""
+    },
+    {
+        "id": 280,
+        "version": "Crados 2",
+        "family": "Concours",
+        "name": "ARTHUR Ordure",
+        "first_name": "Arthur",
+        "description": ""
+    },
+    {
+        "id": 281,
+        "version": "Crados 2",
+        "family": "Puzzle-Toi - 4",
+        "name": "CORINNE Tartine",
+        "first_name": "Corinne",
+        "description": ""
+    },
+    {
+        "id": 290,
+        "version": "Crados 2",
+        "family": "Crevos",
+        "name": "PASCALE passale",
+        "first_name": "Pascale",
+        "description": "Au lieu d'aller à l'école, Pascale sèche."
+    },
+    {
+        "id": 291,
+        "version": "Crados 2",
+        "family": "Crevos",
+        "name": "REBECCA niveau",
+        "first_name": "Rebecca",
+        "description": "Lorsqu'elle voit un éboueur, Rebecca lui tire la langue."
+    },
+    {
+        "id": 292,
+        "version": "Crados 2",
+        "family": "Crevos",
+        "name": "le penseur de ROMAIN",
+        "first_name": "Romain",
+        "description": "Romain bloque les toilettes pendant des heures.Pourquoi ? Il pense !."
+    },
+    {
+        "id": 293,
+        "version": "Crados 2",
+        "family": "Crevos",
+        "name": "JEREMY crobe",
+        "first_name": "Jeremy",
+        "description": "Jérémy est si petit que, dans la rue, il s'écrase."
+    },
+    {
+        "id": 294,
+        "version": "Crados 2",
+        "family": "Crevos",
+        "name": "JEAN-LOU garou",
+        "first_name": "Jean",
+        "description": "Les nuits de pleine lune, Jean-Lou se conduit comme une bête."
+    },
+    {
+        "id": 295,
+        "version": "Crados 2",
+        "family": "Crevos",
+        "name": "JUDITH en kit",
+        "first_name": "Judith",
+        "description": "Judith n'a pas la forme : elle a une mine de papier mâché."
+    },
+    {
+        "id": 296,
+        "version": "Crados 2",
+        "family": "Crevos",
+        "name": "GREGOIRE suppositoire",
+        "first_name": "Gregoire",
+        "description": "La première fois qu'il a sauté en parachute,Grégoire s'est planté."
+    },
+    {
+        "id": 297,
+        "version": "Crados 2",
+        "family": "Crevos",
+        "name": "ROGER bouché",
+        "first_name": "Roger",
+        "description": "Pour que Roger la ferme, il faut employer les grands moyens."
+    },
+    {
+        "id": 298,
+        "version": "Crados 2",
+        "family": "Crevos",
+        "name": "STEPH en relief",
+        "first_name": "Steph",
+        "description": "Steph lit trop de B.D. en relief, il en devient flou."
+    },
+    {
+        "id": 299,
+        "version": "Crados 2",
+        "family": "Crevos",
+        "name": "quatorze JULIETTE",
+        "first_name": "Juliette",
+        "description": "A part aux boums, Juliette arrive toujours en pétard."
+    },
+    {
+        "id": 300,
+        "version": "Crados 2",
+        "family": "Crevos",
+        "name": "PATRICK mécanique",
+        "first_name": "Patrick",
+        "description": "Patrick a mis le doigt dans l'engrenage. Maintenant, il est coincé."
+    },
+    {
+        "id": 301,
+        "version": "Crados 2",
+        "family": "Crevos",
+        "name": "CEDRIC abrac",
+        "first_name": "Cedric",
+        "description": "Pauvre Cédric, il fait ce qu'il peut avec ce qu'il a."
+    },
+    {
+        "id": 302,
+        "version": "Crados 2",
+        "family": "Crevos",
+        "name": "FLORIAN gluant",
+        "first_name": "Florian",
+        "description": "Mouche Armelle n'aime pas Florian, elle le trouve trop collant."
+    },
+    {
+        "id": 303,
+        "version": "Crados 2",
+        "family": "Crevos",
+        "name": "SANDRINE cendrier",
+        "first_name": "Sandrine",
+        "description": "Sandrine, elle mégote."
+    },
+    {
+        "id": 304,
+        "version": "Crados 2",
+        "family": "Crevos",
+        "name": "PHILIPPE sanslip",
+        "first_name": "Philippe",
+        "description": "En cas de coup dur, tu peux compter sur Philippe, il n'est pas du genre à baisser culotte."
+    },
+    {
+        "id": 305,
+        "version": "Crados 2",
+        "family": "Crevos",
+        "name": "JOHANN crâne",
+        "first_name": "Johann",
+        "description": "Johann est toujours prêt à déballer ce qu'il a dans la caboche."
+    },
+    {
+        "id": 306,
+        "version": "Crados 2",
+        "family": "Crevos",
+        "name": "MANU cléaire",
+        "first_name": "Manu",
+        "description": "Manu est très actif.... Et même radioactif. MANU CLEAIRE, LE FRERE JUMEAU DE FREDERIC ATOMICPour s'éclater à leur anniversaire, Manu et Frédéric n'ont aucun problème,ils sont invités par le capitaine d'un porte-avion nucléaire.Pendant qu'ils font la bombe avec les copains dans la salle des machines,le capitaine fait du ski nautique."
+    },
+    {
+        "id": 307,
+        "version": "Crados 2",
+        "family": "Crevos",
+        "name": "CHLOE anglaise",
+        "first_name": "Chloe",
+        "description": "Quand Chloé n' pas de travail, elle cherche du boulon."
+    },
+    {
+        "id": 308,
+        "version": "Crados 2",
+        "family": "Crevos",
+        "name": "punching PAUL",
+        "first_name": "Paul",
+        "description": "Plus tu cognes Paul, plus il s'en balance."
+    },
+    {
+        "id": 309,
+        "version": "Crados 2",
+        "family": "Crevos",
+        "name": "mongol PIERRE",
+        "first_name": "Pierre",
+        "description": "Honoré Vapété ne peut pas faire confianceà son cousin Pierre, c'est un dégonflé."
+    },
+    {
+        "id": 310,
+        "version": "Crados 2",
+        "family": "Crevos",
+        "name": "CHANTAL chantemal",
+        "first_name": "Chantal",
+        "description": "Non seulement Chantal chante mal mais en plus elle est fêlée."
+    },
+    {
+        "id": 311,
+        "version": "Crados 2",
+        "family": "Crevos",
+        "name": "CLAUDE le clodo",
+        "first_name": "Claude",
+        "description": "Claude, c'est sous les ponts qu'il se tape la cloche."
+    },
+    {
+        "id": 312,
+        "version": "Crados 2",
+        "family": "Crevos",
+        "name": "FRANCIS la lame",
+        "first_name": "Francis",
+        "description": "Francis a plus d'un tour dans son sac, c'est un gars futé."
+    },
+    {
+        "id": 313,
+        "version": "Crados 2",
+        "family": "Crevos",
+        "name": "ALBAN la balance",
+        "first_name": "Alban",
+        "description": "Alban ne fait pas le poids tous ses amis l'ont laissé tomber."
+    },
+    {
+        "id": 314,
+        "version": "Crados 2",
+        "family": "Dechiros",
+        "name": "WILLIAM de rasoir",
+        "first_name": "William",
+        "description": "William est un raseur, avec lui tu n'te poiles pas."
+    },
+    {
+        "id": 315,
+        "version": "Crados 2",
+        "family": "Dechiros",
+        "name": "ANNETTE mauviette",
+        "first_name": "Annette",
+        "description": "Annette a voulu prendre le train fantôme,elle s'en mord les doigts."
+    },
+    {
+        "id": 316,
+        "version": "Crados 2",
+        "family": "Dechiros",
+        "name": "MAXIME lafrime",
+        "first_name": "Maxime",
+        "description": "Comme Tarzan, Maxime est un homme de la jongle."
+    },
+    {
+        "id": 317,
+        "version": "Crados 2",
+        "family": "Dechiros",
+        "name": "THEODORE toréador",
+        "first_name": "Theodore",
+        "description": "Théodore est le roi de l'arène."
+    },
+    {
+        "id": 318,
+        "version": "Crados 2",
+        "family": "Dechiros",
+        "name": "LAURIANE savane",
+        "first_name": "Lauriane",
+        "description": "Lauriane ne supporte pas William de Rasoir. Il la barbe."
+    },
+    {
+        "id": 319,
+        "version": "Crados 2",
+        "family": "Dechiros",
+        "name": "cul d JACK",
+        "first_name": "Jack",
+        "description": "La spécialité de Jack : le rase-motte."
+    },
+    {
+        "id": 320,
+        "version": "Crados 2",
+        "family": "Dechiros",
+        "name": "VINCENT zoreille",
+        "first_name": "Vincent",
+        "description": "Si tu demandes à Vincent de t'écouter, il te prêtera l oreille."
+    },
+    {
+        "id": 321,
+        "version": "Crados 2",
+        "family": "Dechiros",
+        "name": "DEDE éprouvette",
+        "first_name": "Dede",
+        "description": "Dédé est bizarre, sa naissance l'a éprouvé."
+    },
+    {
+        "id": 322,
+        "version": "Crados 2",
+        "family": "Dechiros",
+        "name": "AICHA aïe-aïe",
+        "first_name": "Aicha",
+        "description": "Aïcha est toujours tirée à quatre épingles."
+    },
+    {
+        "id": 323,
+        "version": "Crados 2",
+        "family": "Dechiros",
+        "name": "travail MANUEL",
+        "first_name": "Manuel",
+        "description": "Depuis qu'il s'est mis à la menuiserie,Manuel n'a plus toute sa tête à lui."
+    },
+    {
+        "id": 324,
+        "version": "Crados 2",
+        "family": "Dechiros",
+        "name": "LEA bla-bla",
+        "first_name": "Lea",
+        "description": "Léa avait la langue trop longue.Maintenant, elle se tient à carreau."
+    },
+    {
+        "id": 325,
+        "version": "Crados 2",
+        "family": "Dechiros",
+        "name": "ANEMONE bourgeonne",
+        "first_name": "Anemone",
+        "description": "Anémone pustule comme Gudule."
+    },
+    {
+        "id": 326,
+        "version": "Crados 2",
+        "family": "Dechiros",
+        "name": "baby LISE",
+        "first_name": "Lise",
+        "description": "Lise a trop forcé sur la mise en plis,ça lui a grillé la cervelle."
+    },
+    {
+        "id": 327,
+        "version": "Crados 2",
+        "family": "Dechiros",
+        "name": "BLANCHE à repasser",
+        "first_name": "Blanche",
+        "description": "Blanche a mauvais caractère, elle se froisse facilement."
+    },
+    {
+        "id": 328,
+        "version": "Crados 2",
+        "family": "Dechiros",
+        "name": "JO kari",
+        "first_name": "Jo",
+        "description": "Impossible de se débarasser de Jo. Plus tu le jettes, plus il revient."
+    },
+    {
+        "id": 329,
+        "version": "Crados 2",
+        "family": "Dechiros",
+        "name": "CHARLES marteau",
+        "first_name": "Charles",
+        "description": "Charles est frappé mais il s'en tape."
+    },
+    {
+        "id": 330,
+        "version": "Crados 2",
+        "family": "Dechiros",
+        "name": "BERNADETTE brouette",
+        "first_name": "Bernadette",
+        "description": "La devise de Bernadette : je roule pour vous."
+    },
+    {
+        "id": 331,
+        "version": "Crados 2",
+        "family": "Dechiros",
+        "name": "MADELEINE pur beurre",
+        "first_name": "Madeleine",
+        "description": "Pour Madeleine, la pâtisserie, c'est pas de la tarte."
+    },
+    {
+        "id": 332,
+        "version": "Crados 2",
+        "family": "Dechiros",
+        "name": "MICHOU feuille-de-chou",
+        "first_name": "Michou",
+        "description": "Michou est le chouchou de sa maîtressemais à la fin de l'année il échoue."
+    },
+    {
+        "id": 333,
+        "version": "Crados 2",
+        "family": "Dechiros",
+        "name": "JEAN-PAUL aroïd",
+        "first_name": "Jean",
+        "description": "Jean-Paul a eu le déclic pour la photographie."
+    },
+    {
+        "id": 334,
+        "version": "Crados 2",
+        "family": "Dechiros",
+        "name": "FARID fakir",
+        "first_name": "Farid",
+        "description": "Pour traverser la rue, Farid passe toujours sur les clous."
+    },
+    {
+        "id": 335,
+        "version": "Crados 2",
+        "family": "Dechiros",
+        "name": "MARTIN mateur",
+        "first_name": "Martin",
+        "description": "Martin a deux fiancées, il sort avec des jumelles."
+    },
+    {
+        "id": 336,
+        "version": "Crados 2",
+        "family": "Dechiros",
+        "name": "BRUNO pipo",
+        "first_name": "Bruno",
+        "description": "Pour avoir de bonnes notes, Bruno connaît la musique. BRUNO PIPO, L'AMI D'ENFANCE D'EMILE DEBILEDepuis qu'ils sont tout petits, Emile et Bruno sont pensionnaires dans la même asile.Comme ils ne trouvaient pas l'ambiance assez démente, ils ont invité Martine à Sous etouvert un casino clandestin. Tout le monde a perdu la boule à la roulette."
+    },
+    {
+        "id": 337,
+        "version": "Crados 2",
+        "family": "Dechiros",
+        "name": "strip STEVE",
+        "first_name": "Steve",
+        "description": "Le drame de Steve, c'est qu'il est mal dans sa peau."
+    },
+    {
+        "id": 338,
+        "version": "Crados 2",
+        "family": "Dechiros",
+        "name": "SARAH sparadrap",
+        "first_name": "Sarah",
+        "description": "Pansemi et Pansement étaient dans un bateau avec Sarah,Pansemi est tombé à l eau."
+    },
+    {
+        "id": 339,
+        "version": "Crados 2",
+        "family": "Dechiros",
+        "name": "trou d HERCULE",
+        "first_name": "Hercule",
+        "description": "Hercule est prudent. Avant d'aller où que ce soit,il jette un oeil."
+    },
+    {
+        "id": 340,
+        "version": "Crados 2",
+        "family": "Dechiros",
+        "name": "escalier ROLAND",
+        "first_name": "Roland",
+        "description": "Dans les grands magasins, Roland roule des mécaniques."
+    },
+    {
+        "id": 341,
+        "version": "Crados 2",
+        "family": "Dechiros",
+        "name": "ERIC hochet",
+        "first_name": "Eric",
+        "description": "Eric déteste être secoué, ça lui colle mal aux crânes."
+    },
+    {
+        "id": 342,
+        "version": "Crados 2",
+        "family": "Dechiros",
+        "name": "basket BILL",
+        "first_name": "Bill",
+        "description": "A la fin d'un match, Bill à la tête comme un ballon."
+    },
+    {
+        "id": 343,
+        "version": "Crados 2",
+        "family": "Dechiros",
+        "name": "ANNA grafe",
+        "first_name": "Anna",
+        "description": "Anna, il faut lui reconnaître une qualité : elle s'accroche."
+    },
+    {
+        "id": 344,
+        "version": "Crados 2",
+        "family": "Dechiros",
+        "name": "BLAISE ball",
+        "first_name": "Blaise",
+        "description": "Quand Blaise a découvert la base-ball,il s'y est lancé tête la première."
+    },
+    {
+        "id": 345,
+        "version": "Crados 2",
+        "family": "Dechiros",
+        "name": "taille MARION",
+        "first_name": "Marion",
+        "description": "Marion est timide. Si elle voit un garçon, elle se taille."
+    },
+    {
+        "id": 346,
+        "version": "Crados 2",
+        "family": "Dechiros",
+        "name": "ANDRE au milieu",
+        "first_name": "Andre",
+        "description": "André, la tondeuse, ça le défrise."
+    },
+    {
+        "id": 347,
+        "version": "Crados 2",
+        "family": "Craignos",
+        "name": "PROSPER noël",
+        "first_name": "Prosper",
+        "description": "Prosper est le roi de la cambriole, il descend par les cheminées. PROSPER NOEL, LE BRAS DROIT DE BRUNO K.O.C est pendant le célèbre tournoi de Cogne-en-Garos que Bruno et Prosper ont décidé de s'associer.Bruno a gagné le titre de chef des Craignos. Prosper a vendu des pansements et empochéune fortune"
+    },
+    {
+        "id": 348,
+        "version": "Crados 2",
+        "family": "Craignos",
+        "name": "HUGO flingo",
+        "first_name": "Hugo",
+        "description": "Dans un duel contre Hugo, tu n'as pas une chance avec tonpistolet à eau. Il a un pistolet à morve."
+    },
+    {
+        "id": 349,
+        "version": "Crados 2",
+        "family": "Craignos",
+        "name": "ANASTASE le nase",
+        "first_name": "Anastase",
+        "description": "Anastase avait envie de devenir chef des Craignos à la placede Bruno K.O. Il n'a pas eu envie longtemps."
+    },
+    {
+        "id": 350,
+        "version": "Crados 2",
+        "family": "Craignos",
+        "name": "JULIEN cendie",
+        "first_name": "Julien",
+        "description": "On l'avait pourtant prévenu de na pas jouer avec le feu."
+    },
+    {
+        "id": 351,
+        "version": "Crados 2",
+        "family": "Craignos",
+        "name": "RAOUL babacool",
+        "first_name": "Raoul",
+        "description": "Raoul vit en Italie. Il est la baba de Rome."
+    },
+    {
+        "id": 352,
+        "version": "Crados 2",
+        "family": "Craignos",
+        "name": "ROSETTE gonflette",
+        "first_name": "Rosette",
+        "description": "Dans la classe de Rosette, il n'y a qu'une armoire à glace."
+    },
+    {
+        "id": 353,
+        "version": "Crados 2",
+        "family": "Craignos",
+        "name": "JOACHIM kong",
+        "first_name": "Joachim",
+        "description": "Gare à Joachim, c'est un vrai gorille."
+    },
+    {
+        "id": 354,
+        "version": "Crados 2",
+        "family": "Craignos",
+        "name": "NADINE grenadine",
+        "first_name": "Nadine",
+        "description": "Doucement avec Nadine, un mot de travers et elle explose."
+    },
+    {
+        "id": 355,
+        "version": "Crados 2",
+        "family": "Craignos",
+        "name": "don JEAN",
+        "first_name": "Jean",
+        "description": "Jean ne laisse ses tantes l'embrasser que le jour de son anniversaire ... pour avoir les cadeaux."
+    },
+    {
+        "id": 356,
+        "version": "Crados 2",
+        "family": "Craignos",
+        "name": "RIQUET o piquet",
+        "first_name": "Riquet",
+        "description": "S'il y a du chahut dans la classe, c'est chaque foisRiquet qui se fait coincer."
+    },
+    {
+        "id": 357,
+        "version": "Crados 2",
+        "family": "Craignos",
+        "name": "OSCAR tocard",
+        "first_name": "Oscar",
+        "description": "Oscar se met tout le temps dans des histoires en sac de noeud."
+    },
+    {
+        "id": 358,
+        "version": "Crados 2",
+        "family": "Craignos",
+        "name": "GABRIEL pêle-mêle",
+        "first_name": "Gabriel",
+        "description": "Pour défendre un copain, Gabriel est prêt àse faire couper en morceaux."
+    },
+    {
+        "id": 359,
+        "version": "Crados 2",
+        "family": "Craignos",
+        "name": "REMI zombie",
+        "first_name": "Remi",
+        "description": "Rémi avait le cerveau tellement ramollo,qu'on a préfèré le lui enlever."
+    },
+    {
+        "id": 360,
+        "version": "Crados 2",
+        "family": "Craignos",
+        "name": "TOTO portemanto",
+        "first_name": "Toto",
+        "description": "Toto est quelqu'un de rangé."
+    },
+    {
+        "id": 361,
+        "version": "Crados 2",
+        "family": "Craignos",
+        "name": "GAEL gamelle",
+        "first_name": "Gael",
+        "description": "Gaël est l'acrobate du skate. Sur le bitume, il se défonce."
+    },
+    {
+        "id": 362,
+        "version": "Crados 2",
+        "family": "Craignos",
+        "name": "AL catraz",
+        "first_name": "Al",
+        "description": "Al est aussi aimable qu'une porte de prison."
+    },
+    {
+        "id": 363,
+        "version": "Crados 2",
+        "family": "Craignos",
+        "name": "FABIEN martien",
+        "first_name": "Fabien",
+        "description": "Extra-Thérèse et Marie-Claire de Lune sont fâchées avec Fabien.Il est trop envahissant."
+    },
+    {
+        "id": 364,
+        "version": "Crados 2",
+        "family": "Craignos",
+        "name": "OMAR shérif",
+        "first_name": "Omar",
+        "description": "Omar et Philomène Totem, ils sont potos."
+    },
+    {
+        "id": 365,
+        "version": "Crados 2",
+        "family": "Craignos",
+        "name": "OMER cenaire",
+        "first_name": "Omer",
+        "description": "Entre Omer et son prof, c'est la guerre."
+    },
+    {
+        "id": 366,
+        "version": "Crados 2",
+        "family": "Craignos",
+        "name": "CECILE façoupile",
+        "first_name": "Cecile",
+        "description": "Roger Partagé a une soeur : Cécile."
+    },
+    {
+        "id": 367,
+        "version": "Crados 2",
+        "family": "Craignos",
+        "name": "HUBERT laser",
+        "first_name": "Hubert",
+        "description": "Hubert est toujours branché sur des coups fumants."
+    },
+    {
+        "id": 368,
+        "version": "Crados 2",
+        "family": "Craignos",
+        "name": "JESSICA ratée",
+        "first_name": "Jessica",
+        "description": "Même en kimono, Jessica ne casse pas des briques."
+    },
+    {
+        "id": 369,
+        "version": "Crados 2",
+        "family": "Craignos",
+        "name": "LUDOVIC élastic",
+        "first_name": "Ludovic",
+        "description": "Le matin, Ludovic s'étire et sourit jusqu'aux oreilles."
+    },
+    {
+        "id": 370,
+        "version": "Crados 2",
+        "family": "Lardos",
+        "name": "ODETTE brochette",
+        "first_name": "Odette",
+        "description": "Odette se souviendra longtemps deson pique-nique avec Régis Saucisse."
+    },
+    {
+        "id": 371,
+        "version": "Crados 2",
+        "family": "Lardos",
+        "name": "GILLES danlemil",
+        "first_name": "Gilles",
+        "description": "Si tu ne veux pas rater Gilles, suis les flèches."
+    },
+    {
+        "id": 372,
+        "version": "Crados 2",
+        "family": "Lardos",
+        "name": "NICOLAS coca",
+        "first_name": "Nicolas",
+        "description": "D'année en année, Nicolas prend de la bouteille."
+    },
+    {
+        "id": 373,
+        "version": "Crados 2",
+        "family": "Lardos",
+        "name": "REGINE sans-sel",
+        "first_name": "Regine",
+        "description": "On peut trouver Régine mignonne à croquer mais en réalitéc'est une dure à cuire."
+    },
+    {
+        "id": 374,
+        "version": "Crados 2",
+        "family": "Lardos",
+        "name": "CHARLOTTE supercradotte",
+        "first_name": "Charlotte",
+        "description": "Charlotte va à l'école en camion ... cause de son goûter. CHARLOTTE SUPERCRADOTTE, LA SOEUR D ALDO SUPERCRADOLe 05/07/88, Charlotte a failli battre Aldo aux Jeux Horrifiques de Berk dans l'épreuvedu cent mètres pâtisserie. Elle avait une avance écrasante quand elle s'est étranglésur un pet-de-nonne et a rendu tout ce qu elle avait mangé.Elle a été disqualifiée."
+    },
+    {
+        "id": 375,
+        "version": "Crados 2",
+        "family": "Lardos",
+        "name": "ALEX cornflakes",
+        "first_name": "Alex",
+        "description": "Alex prend ses bains tièdes. Avec beaucoup de lait et un peu de sucre."
+    },
+    {
+        "id": 376,
+        "version": "Crados 2",
+        "family": "Lardos",
+        "name": "KAREN migraine",
+        "first_name": "Karen",
+        "description": "Karen a trouvé la recette pour se rafraîchir les idées."
+    },
+    {
+        "id": 377,
+        "version": "Crados 2",
+        "family": "Lardos",
+        "name": "AUBIN grillé",
+        "first_name": "Aubin",
+        "description": "Sur tous les sujets, Aubin t'en colle une tartine."
+    },
+    {
+        "id": 378,
+        "version": "Crados 2",
+        "family": "Lardos",
+        "name": "MARINE narine",
+        "first_name": "Marine",
+        "description": "Quand Marine t'a dans le nez, c'est pour de vrai."
+    },
+    {
+        "id": 379,
+        "version": "Crados 2",
+        "family": "Lardos",
+        "name": "NGUYEN gruyère",
+        "first_name": "Nguyen",
+        "description": "Nguyen a un problème : les trous de mémoire."
+    },
+    {
+        "id": 380,
+        "version": "Crados 2",
+        "family": "Lardos",
+        "name": "ANDREW barbecue",
+        "first_name": "Andrew",
+        "description": "Andrew se ferait hacher menu plutôt que de rater un pique-nique."
+    },
+    {
+        "id": 381,
+        "version": "Crados 2",
+        "family": "Lardos",
+        "name": "BENOIT senoie",
+        "first_name": "Benoit",
+        "description": "Benoît n'a toujours pas appris à se servir d'une cafetière."
+    },
+    {
+        "id": 382,
+        "version": "Crados 2",
+        "family": "Lardos",
+        "name": "EDMOND glouton",
+        "first_name": "Edmond",
+        "description": "Même si Edmond est seul à table, ça fait beaucoupde bouches à nourrir."
+    },
+    {
+        "id": 383,
+        "version": "Crados 2",
+        "family": "Lardos",
+        "name": "RICK n roll",
+        "first_name": "Rick",
+        "description": "Rick est aussi connu sous le nom d'Elvis Trèslaid."
+    },
+    {
+        "id": 384,
+        "version": "Crados 2",
+        "family": "Lardos",
+        "name": "LUCETTE sucette",
+        "first_name": "Lucette",
+        "description": "De peur d'en manquer, Lucette se garde une sucette de réserve ...en travers de la gorge."
+    },
+    {
+        "id": 385,
+        "version": "Crados 2",
+        "family": "Lardos",
+        "name": "MYRIAM miam-miam",
+        "first_name": "Myriam",
+        "description": "Si tu veux t'en payer une tranche, va voir Myriam."
+    },
+    {
+        "id": 386,
+        "version": "Crados 2",
+        "family": "Lardos",
+        "name": "THIBAUD de banane",
+        "first_name": "Thibaud",
+        "description": "Thibaud adore les sports de glisse."
+    }
+]

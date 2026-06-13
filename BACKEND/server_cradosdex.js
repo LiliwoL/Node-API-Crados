@@ -1,7 +1,10 @@
+/********************************* */
 /* Serveur Backend Crados Dex */
+/********************************* */
 
 // init
 const fs = require('fs');
+const figlet = require('figlet');
 const cors = require('cors');
 const express = require('express');
 const app = express();
@@ -23,7 +26,15 @@ app.use(cors());
 // EN: start the server and wait
 app.listen(port, '0.0.0.0',
     () => {
-        console.log('Server CradosDex is listening on ' + port);
+        console.clear();
+        figlet('Server CradosDex is listening on ' + port, function (err, data) {
+            if (err) {
+                console.log("Something went wrong...");
+                console.dir(err);
+                return;
+            }
+            console.log('Server CradosDex is listening on ' + port);
+        });
     }
 );
 
@@ -43,6 +54,12 @@ function findAllCrados(request, reponse) {
 
     let cradosdex = JSON.parse(data);
 
+    // FR: Parse le JSON et ajoute une propriété "image" à chaque crados, qui correspond au nom du fichier image associé à ce crados
+    // EN: Parse the JSON and add an "image" property to each crados, which corresponds to the name of the image file associated with this crados
+    for (let i = 0; i < cradosdex.length; i++) {
+        cradosdex[i].image = getCradosFile(cradosdex[i].id);
+    }
+
     // FR: Renvoie tout le json interprété
     // EN: Returns all interpreted json
     reponse.send(cradosdex);
@@ -58,14 +75,22 @@ function findOneCradosByRandom(request, reponse) {
 
     let cradosdex = JSON.parse(data);
 
-    // FR: choisis un crados aléatoire
-    // EN: choose a random crados
+    // FR: choisis un nombre aléatoire
+    // EN: choose a random number
     let id = 0;
     id = Math.floor(Math.random() * cradosdex.length) + 1;
 
+    // FR: Renvoie le crados aléatoire trouvé
+    // EN: Returns the random crados found
+    let randomCrados = cradosdex[id];
+
+    // FR: Ajoute une propriété "image" au crados aléatoire, qui correspond au nom du fichier image associé à ce crados
+    // EN: Add an "image" property to the random crados, which corresponds to the name of the image file associated with this crados
+    randomCrados.image = getCradosFile(randomCrados.id);
+
     // FR: Renvoie tout le json interprété
     // EN: Returns all interpreted json
-    reponse.send(cradosdex[id]);
+    reponse.send(randomCrados);
 }
 
 // FR: return un crados
@@ -133,4 +158,13 @@ function findOneCrados(request, reponse) {
         // erreur
         reponse.send('Veuillez entrer un champ dans l\'URL en utilisant ?crados=nom_du_crados ou ?id=id_crados.');
     }
+}
+
+// FR: Convertir un id de crados en nom de fichier
+// EN: Convert a crados id to file name
+function getCradosFile(id) {
+    // FR: l'id est un nombre entre 1 et 386, on doit le convertir en un nom de fichier
+    // EN: the id is a number between 1 and 386, we need to convert it to a file name
+    let fileName = id.toString().padStart(3, '0') + '.jpg';
+    return fileName;
 }

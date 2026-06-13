@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crados Dex - Frontend</title>
+    <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+    <header>
+        <h1>Crados Dex</h1>
+    </header>
+    <main>
+        <section id="crados-list">
+            <!-- La liste des Crados sera affichée ici -->
+             <table>
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>Nom</th>
+                        <th>Description</th>
+                        <th>Image</th>
+                    </tr>
+                </thead>
+                <tbody id="crados-table-body">
+                    <!-- Les Crados seront ajoutés ici dynamiquement -->
+                </tbody>
+            </table>
+            <!-- Bouton pour recharger les Crados -->
+            <button id="reload-button">Recharger les Crados</button>
+        </section>
+    </main>
+    <script src="assets/script.js"></script>
+</body>
+</html>

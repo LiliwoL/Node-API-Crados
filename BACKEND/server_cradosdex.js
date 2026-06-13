@@ -40,9 +40,9 @@ app.listen(port, '0.0.0.0',
 
 // FR: création des routes
 // EN: creating roads
-app.get('/',findAllCrados); // return all crados
-app.get('/random',findOneCradosByRandom); // return a random crados
-app.get('/crados', findOneCrados); // return one crados
+app.get('/api/v1/crados',findAllCrados); // return all crados
+app.get('/api/v1/random',findOneCradosByRandom); // return a random crados
+app.get('/api/v1/crados', findOneCrados); // return one crados
 
 
 // FR: retourner tous les crados

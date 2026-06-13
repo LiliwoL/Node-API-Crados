@@ -42,7 +42,8 @@ app.listen(port, '0.0.0.0',
 // EN: creating roads
 app.get('/api/v1/crados',findAllCrados); // return all crados
 app.get('/api/v1/random',findOneCradosByRandom); // return a random crados
-app.get('/api/v1/crados', findOneCrados); // return one crados
+app.get('/api/v1/crados/id/:id', findOneCradosById); // return one crados
+app.get('/api/v1/crados/name/:name', findOneCradosByName); // return one crados
 
 
 // FR: retourner tous les crados
@@ -93,13 +94,13 @@ function findOneCradosByRandom(request, reponse) {
     reponse.send(randomCrados);
 }
 
-// FR: return un crados
+// FR: return un crados by name
 // EN: return one crados
-function findOneCrados(request, reponse) {
+function findOneCradosByName(request, reponse) {
 
     // init
     const crados = request.query.crados;
-    const id = request.query.id;
+    const name = request.query.name;
     let cradosData = null;
 
     // FR: Lecture du fichier
@@ -157,6 +158,38 @@ function findOneCrados(request, reponse) {
      else {
         // erreur
         reponse.send('Veuillez entrer un champ dans l\'URL en utilisant ?crados=nom_du_crados ou ?id=id_crados.');
+    }
+}
+
+// FR: return un crados by id
+// EN: return one crados
+function findOneCradosById(request, reponse) {
+
+    // init
+    const id = request.params.id;
+    let cradosData = null;
+
+    // FR: Lecture du fichier
+    // EN: Read file
+    let data = fs.readFileSync(CRADOSDEX);
+    let cradosdex = JSON.parse(data);
+
+    // FR: cherche un crados par son id
+    // EN: search for a crados by id
+    for (let i = 0; i < cradosdex.length; i++) {
+        if (cradosdex[i].id == id) {
+            cradosData = cradosdex[i];
+            break;
+        }
+    }
+
+    if (cradosData) {
+        // FR: Renvoie le Crados trouvé
+        // EN: Returns the Crados found
+        reponse.send(cradosData);
+    } else {
+        // not found
+        reponse.send('Aucun Crados trouvé avec cette id.');
     }
 }
 

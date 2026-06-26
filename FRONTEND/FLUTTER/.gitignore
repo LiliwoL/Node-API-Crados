@@ -1,0 +1,25 @@
+# Flutter
+.dart_tool/
+.idea/
+.build/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# IDE
+**/doc/
+**/lib/
+**/test/
+
+# Pub
+.packages
+pubspec.lock
+
+# Android
+android/app/debug.keystore
+android/app/google-services.json
+
+# iOS
+ios/Runner/GoogleService-Info.plist

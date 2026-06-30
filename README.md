@@ -1,4 +1,8 @@
-# CradosDex
+# CradosDex - L'encyclopédie des Crados
+
+Vous vous rappelez des Crados?
+
+Voici un projet de découverte du deb web avec les Crados comme sujet.
 
 ## Backend
 
